@@ -1,0 +1,5602 @@
+[
+ {
+  "pl_name": "Simulated-001 b",
+  "pl_orbper": 12.9416,
+  "pl_rade": 3.33,
+  "pl_eqt": 706,
+  "st_teff": 4684
+ },
+ {
+  "pl_name": "Simulated-002 c",
+  "pl_orbper": 217.443,
+  "pl_rade": 13.63,
+  "pl_eqt": 286,
+  "st_teff": 5484
+ },
+ {
+  "pl_name": "Simulated-003 d",
+  "pl_orbper": 624.347,
+  "pl_rade": 1.83,
+  "pl_eqt": null,
+  "st_teff": 4383
+ },
+ {
+  "pl_name": "Simulated-004 e",
+  "pl_orbper": 0.5385,
+  "pl_rade": 2.76,
+  "pl_eqt": null,
+  "st_teff": 3856
+ },
+ {
+  "pl_name": "Simulated-005 f",
+  "pl_orbper": 490.0748,
+  "pl_rade": 4.03,
+  "pl_eqt": 153,
+  "st_teff": 3232
+ },
+ {
+  "pl_name": "Simulated-006 g",
+  "pl_orbper": 0.4355,
+  "pl_rade": 0.72,
+  "pl_eqt": 1922,
+  "st_teff": 3786
+ },
+ {
+  "pl_name": "Simulated-007 b",
+  "pl_orbper": 187.0044,
+  "pl_rade": 1.71,
+  "pl_eqt": 267,
+  "st_teff": 3945
+ },
+ {
+  "pl_name": "Simulated-008 c",
+  "pl_orbper": 27.7654,
+  "pl_rade": 4.04,
+  "pl_eqt": null,
+  "st_teff": 6080
+ },
+ {
+  "pl_name": "Simulated-009 d",
+  "pl_orbper": 10.3734,
+  "pl_rade": 0.86,
+  "pl_eqt": 677,
+  "st_teff": 4522
+ },
+ {
+  "pl_name": "Simulated-010 e",
+  "pl_orbper": 7.9088,
+  "pl_rade": 1.37,
+  "pl_eqt": null,
+  "st_teff": 3339
+ },
+ {
+  "pl_name": "Simulated-011 f",
+  "pl_orbper": 17.9139,
+  "pl_rade": 1.6,
+  "pl_eqt": 535,
+  "st_teff": 4774
+ },
+ {
+  "pl_name": "Simulated-012 g",
+  "pl_orbper": 971.6639,
+  "pl_rade": 8.54,
+  "pl_eqt": 151,
+  "st_teff": 4228
+ },
+ {
+  "pl_name": "Simulated-013 b",
+  "pl_orbper": 30.9864,
+  "pl_rade": 9.76,
+  "pl_eqt": 443,
+  "st_teff": 4446
+ },
+ {
+  "pl_name": "Simulated-014 c",
+  "pl_orbper": 439.1097,
+  "pl_rade": 1.36,
+  "pl_eqt": null,
+  "st_teff": 3752
+ },
+ {
+  "pl_name": "Simulated-015 d",
+  "pl_orbper": 0.9095,
+  "pl_rade": 0.96,
+  "pl_eqt": null,
+  "st_teff": 5046
+ },
+ {
+  "pl_name": "Simulated-016 e",
+  "pl_orbper": 185.4158,
+  "pl_rade": 2.79,
+  "pl_eqt": null,
+  "st_teff": 3260
+ },
+ {
+  "pl_name": "Simulated-017 f",
+  "pl_orbper": 7.8145,
+  "pl_rade": 1.07,
+  "pl_eqt": 624,
+  "st_teff": 3473
+ },
+ {
+  "pl_name": "Simulated-018 g",
+  "pl_orbper": 18.872,
+  "pl_rade": 1.52,
+  "pl_eqt": 771,
+  "st_teff": 5510
+ },
+ {
+  "pl_name": "Simulated-019 b",
+  "pl_orbper": 0.5313,
+  "pl_rade": 2.94,
+  "pl_eqt": null,
+  "st_teff": 3627
+ },
+ {
+  "pl_name": "Simulated-020 c",
+  "pl_orbper": 29.5422,
+  "pl_rade": 6.53,
+  "pl_eqt": 594,
+  "st_teff": 4739
+ },
+ {
+  "pl_name": "Simulated-021 d",
+  "pl_orbper": 190.6323,
+  "pl_rade": 2.25,
+  "pl_eqt": 215,
+  "st_teff": 3623
+ },
+ {
+  "pl_name": "Simulated-022 e",
+  "pl_orbper": 4.8224,
+  "pl_rade": 3.56,
+  "pl_eqt": 994,
+  "st_teff": 4557
+ },
+ {
+  "pl_name": "Simulated-023 f",
+  "pl_orbper": 14.1891,
+  "pl_rade": 5.14,
+  "pl_eqt": 493,
+  "st_teff": 3123
+ },
+ {
+  "pl_name": "Simulated-024 g",
+  "pl_orbper": 640.4357,
+  "pl_rade": 3.22,
+  "pl_eqt": 198,
+  "st_teff": 5240
+ },
+ {
+  "pl_name": "Simulated-025 b",
+  "pl_orbper": 10.1956,
+  "pl_rade": 3.63,
+  "pl_eqt": null,
+  "st_teff": 5162
+ },
+ {
+  "pl_name": "Simulated-026 c",
+  "pl_orbper": 814.1288,
+  "pl_rade": 14.43,
+  "pl_eqt": null,
+  "st_teff": 6020
+ },
+ {
+  "pl_name": "Simulated-027 d",
+  "pl_orbper": 89.8309,
+  "pl_rade": 2.64,
+  "pl_eqt": 611,
+  "st_teff": 6915
+ },
+ {
+  "pl_name": "Simulated-028 e",
+  "pl_orbper": 3.4781,
+  "pl_rade": 3.92,
+  "pl_eqt": 1290,
+  "st_teff": 5226
+ },
+ {
+  "pl_name": "Simulated-029 f",
+  "pl_orbper": 11.3615,
+  "pl_rade": 1.21,
+  "pl_eqt": null,
+  "st_teff": 3705
+ },
+ {
+  "pl_name": "Simulated-030 g",
+  "pl_orbper": 223.6332,
+  "pl_rade": 2.99,
+  "pl_eqt": 256,
+  "st_teff": 4111
+ },
+ {
+  "pl_name": "Simulated-031 b",
+  "pl_orbper": 2.404,
+  "pl_rade": 5.9,
+  "pl_eqt": 797,
+  "st_teff": 3098
+ },
+ {
+  "pl_name": "Simulated-032 c",
+  "pl_orbper": 10.1992,
+  "pl_rade": 5.55,
+  "pl_eqt": 683,
+  "st_teff": 4100
+ },
+ {
+  "pl_name": "Simulated-033 d",
+  "pl_orbper": 2.0885,
+  "pl_rade": 1.12,
+  "pl_eqt": 1504,
+  "st_teff": 4915
+ },
+ {
+  "pl_name": "Simulated-034 e",
+  "pl_orbper": 504.8222,
+  "pl_rade": 3.63,
+  "pl_eqt": null,
+  "st_teff": 3488
+ },
+ {
+  "pl_name": "Simulated-035 f",
+  "pl_orbper": 1061.0935,
+  "pl_rade": 0.68,
+  "pl_eqt": 200,
+  "st_teff": 5286
+ },
+ {
+  "pl_name": "Simulated-036 g",
+  "pl_orbper": 0.9759,
+  "pl_rade": 6.44,
+  "pl_eqt": 1554,
+  "st_teff": 5155
+ },
+ {
+  "pl_name": "Simulated-037 b",
+  "pl_orbper": 1.4069,
+  "pl_rade": 7.92,
+  "pl_eqt": 2018,
+  "st_teff": 5779
+ },
+ {
+  "pl_name": "Simulated-038 c",
+  "pl_orbper": 1.5481,
+  "pl_rade": 0.78,
+  "pl_eqt": 1469,
+  "st_teff": 4719
+ },
+ {
+  "pl_name": "Simulated-039 d",
+  "pl_orbper": 558.3095,
+  "pl_rade": 0.66,
+  "pl_eqt": 200,
+  "st_teff": 4757
+ },
+ {
+  "pl_name": "Simulated-040 e",
+  "pl_orbper": 7.9784,
+  "pl_rade": 3.29,
+  "pl_eqt": 925,
+  "st_teff": 5306
+ },
+ {
+  "pl_name": "Simulated-041 f",
+  "pl_orbper": 40.4804,
+  "pl_rade": 7.04,
+  "pl_eqt": null,
+  "st_teff": 3283
+ },
+ {
+  "pl_name": "Simulated-042 g",
+  "pl_orbper": 15.5128,
+  "pl_rade": 2.35,
+  "pl_eqt": null,
+  "st_teff": 5108
+ },
+ {
+  "pl_name": "Simulated-043 b",
+  "pl_orbper": 2.3016,
+  "pl_rade": 1.73,
+  "pl_eqt": 1417,
+  "st_teff": 5716
+ },
+ {
+  "pl_name": "Simulated-044 c",
+  "pl_orbper": 1.5716,
+  "pl_rade": 2.91,
+  "pl_eqt": 771,
+  "st_teff": 2720
+ },
+ {
+  "pl_name": "Simulated-045 d",
+  "pl_orbper": 2.9185,
+  "pl_rade": 14.2,
+  "pl_eqt": 1712,
+  "st_teff": 7297
+ },
+ {
+  "pl_name": "Simulated-046 e",
+  "pl_orbper": 12.7687,
+  "pl_rade": 8.5,
+  "pl_eqt": null,
+  "st_teff": 4131
+ },
+ {
+  "pl_name": "Simulated-047 f",
+  "pl_orbper": 204.2772,
+  "pl_rade": 7.11,
+  "pl_eqt": 279,
+  "st_teff": 4841
+ },
+ {
+  "pl_name": "Simulated-048 g",
+  "pl_orbper": 214.1975,
+  "pl_rade": 12.5,
+  "pl_eqt": 266,
+  "st_teff": 5424
+ },
+ {
+  "pl_name": "Simulated-049 b",
+  "pl_orbper": 0.7564,
+  "pl_rade": 3.28,
+  "pl_eqt": 2163,
+  "st_teff": 6400
+ },
+ {
+  "pl_name": "Simulated-050 c",
+  "pl_orbper": 53.2152,
+  "pl_rade": 2.17,
+  "pl_eqt": null,
+  "st_teff": 6051
+ },
+ {
+  "pl_name": "Simulated-051 d",
+  "pl_orbper": 1.4815,
+  "pl_rade": 1.94,
+  "pl_eqt": null,
+  "st_teff": 4024
+ },
+ {
+  "pl_name": "Simulated-052 e",
+  "pl_orbper": 581.7542,
+  "pl_rade": 1.42,
+  "pl_eqt": 256,
+  "st_teff": 5468
+ },
+ {
+  "pl_name": "Simulated-053 f",
+  "pl_orbper": 69.8812,
+  "pl_rade": 6.59,
+  "pl_eqt": 316,
+  "st_teff": 3508
+ },
+ {
+  "pl_name": "Simulated-054 g",
+  "pl_orbper": 7.9062,
+  "pl_rade": 3.98,
+  "pl_eqt": null,
+  "st_teff": 4498
+ },
+ {
+  "pl_name": "Simulated-055 b",
+  "pl_orbper": 5.1155,
+  "pl_rade": 5.22,
+  "pl_eqt": 706,
+  "st_teff": 3245
+ },
+ {
+  "pl_name": "Simulated-056 c",
+  "pl_orbper": 413.1635,
+  "pl_rade": 6.19,
+  "pl_eqt": 134,
+  "st_teff": 3129
+ },
+ {
+  "pl_name": "Simulated-057 d",
+  "pl_orbper": 17.5929,
+  "pl_rade": 3.49,
+  "pl_eqt": null,
+  "st_teff": 3060
+ },
+ {
+  "pl_name": "Simulated-058 e",
+  "pl_orbper": 1.0692,
+  "pl_rade": 5.51,
+  "pl_eqt": null,
+  "st_teff": 5240
+ },
+ {
+  "pl_name": "Simulated-059 f",
+  "pl_orbper": 95.0466,
+  "pl_rade": 4.8,
+  "pl_eqt": 258,
+  "st_teff": 3211
+ },
+ {
+  "pl_name": "Simulated-060 g",
+  "pl_orbper": 433.6502,
+  "pl_rade": 11.98,
+  "pl_eqt": null,
+  "st_teff": 4780
+ },
+ {
+  "pl_name": "Simulated-061 b",
+  "pl_orbper": 88.4442,
+  "pl_rade": 2.43,
+  "pl_eqt": 449,
+  "st_teff": 5991
+ },
+ {
+  "pl_name": "Simulated-062 c",
+  "pl_orbper": 0.4556,
+  "pl_rade": 1.01,
+  "pl_eqt": 2502,
+  "st_teff": 5618
+ },
+ {
+  "pl_name": "Simulated-063 d",
+  "pl_orbper": 3.2569,
+  "pl_rade": 4.18,
+  "pl_eqt": 1104,
+  "st_teff": 4407
+ },
+ {
+  "pl_name": "Simulated-064 e",
+  "pl_orbper": 210.6386,
+  "pl_rade": 5.05,
+  "pl_eqt": 330,
+  "st_teff": 5590
+ },
+ {
+  "pl_name": "Simulated-065 f",
+  "pl_orbper": 1.0929,
+  "pl_rade": 2.17,
+  "pl_eqt": null,
+  "st_teff": 2706
+ },
+ {
+  "pl_name": "Simulated-066 g",
+  "pl_orbper": 1.7588,
+  "pl_rade": 2.9,
+  "pl_eqt": 854,
+  "st_teff": 2726
+ },
+ {
+  "pl_name": "Simulated-067 b",
+  "pl_orbper": 4.11,
+  "pl_rade": 7.9,
+  "pl_eqt": null,
+  "st_teff": 3069
+ },
+ {
+  "pl_name": "Simulated-068 c",
+  "pl_orbper": 524.8149,
+  "pl_rade": 1.55,
+  "pl_eqt": 174,
+  "st_teff": 4335
+ },
+ {
+  "pl_name": "Simulated-069 d",
+  "pl_orbper": 1.6351,
+  "pl_rade": 3.71,
+  "pl_eqt": 1744,
+  "st_teff": 5311
+ },
+ {
+  "pl_name": "Simulated-070 e",
+  "pl_orbper": 9.8239,
+  "pl_rade": 2.7,
+  "pl_eqt": 657,
+  "st_teff": 4067
+ },
+ {
+  "pl_name": "Simulated-071 f",
+  "pl_orbper": 901.9363,
+  "pl_rade": 12.98,
+  "pl_eqt": 128,
+  "st_teff": 3877
+ },
+ {
+  "pl_name": "Simulated-072 g",
+  "pl_orbper": 69.3447,
+  "pl_rade": 2.98,
+  "pl_eqt": 297,
+  "st_teff": 3296
+ },
+ {
+  "pl_name": "Simulated-073 b",
+  "pl_orbper": 4.294,
+  "pl_rade": 2.53,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-074 c",
+  "pl_orbper": 3.721,
+  "pl_rade": 7.65,
+  "pl_eqt": null,
+  "st_teff": 3803
+ },
+ {
+  "pl_name": "Simulated-075 d",
+  "pl_orbper": 1.2808,
+  "pl_rade": 14.81,
+  "pl_eqt": 1577,
+  "st_teff": 5582
+ },
+ {
+  "pl_name": "Simulated-076 e",
+  "pl_orbper": 3.2669,
+  "pl_rade": 7.02,
+  "pl_eqt": 1475,
+  "st_teff": 5941
+ },
+ {
+  "pl_name": "Simulated-077 f",
+  "pl_orbper": 9.0617,
+  "pl_rade": 8.87,
+  "pl_eqt": 791,
+  "st_teff": 4353
+ },
+ {
+  "pl_name": "Simulated-078 g",
+  "pl_orbper": 6.1946,
+  "pl_rade": 8.2,
+  "pl_eqt": 506,
+  "st_teff": 3070
+ },
+ {
+  "pl_name": "Simulated-079 b",
+  "pl_orbper": 15.2138,
+  "pl_rade": 9.85,
+  "pl_eqt": 490,
+  "st_teff": 3186
+ },
+ {
+  "pl_name": "Simulated-080 c",
+  "pl_orbper": 10.7131,
+  "pl_rade": 7.65,
+  "pl_eqt": 475,
+  "st_teff": 3208
+ },
+ {
+  "pl_name": "Simulated-081 d",
+  "pl_orbper": 442.4873,
+  "pl_rade": 1.8,
+  "pl_eqt": 160,
+  "st_teff": 3199
+ },
+ {
+  "pl_name": "Simulated-082 e",
+  "pl_orbper": 0.5322,
+  "pl_rade": 2.93,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-083 f",
+  "pl_orbper": 3.6275,
+  "pl_rade": 1.07,
+  "pl_eqt": 592,
+  "st_teff": 2961
+ },
+ {
+  "pl_name": "Simulated-084 g",
+  "pl_orbper": 365.3677,
+  "pl_rade": 1.69,
+  "pl_eqt": null,
+  "st_teff": 5985
+ },
+ {
+  "pl_name": "Simulated-085 b",
+  "pl_orbper": 81.0915,
+  "pl_rade": 3.48,
+  "pl_eqt": 212,
+  "st_teff": 2884
+ },
+ {
+  "pl_name": "Simulated-086 c",
+  "pl_orbper": 985.9035,
+  "pl_rade": 1.02,
+  "pl_eqt": null,
+  "st_teff": 3114
+ },
+ {
+  "pl_name": "Simulated-087 d",
+  "pl_orbper": 165.2966,
+  "pl_rade": 2.59,
+  "pl_eqt": 215,
+  "st_teff": 3308
+ },
+ {
+  "pl_name": "Simulated-088 e",
+  "pl_orbper": 1.4127,
+  "pl_rade": 3.26,
+  "pl_eqt": null,
+  "st_teff": 3112
+ },
+ {
+  "pl_name": "Simulated-089 f",
+  "pl_orbper": 920.2468,
+  "pl_rade": 1.21,
+  "pl_eqt": null,
+  "st_teff": 2838
+ },
+ {
+  "pl_name": "Simulated-090 g",
+  "pl_orbper": 0.5893,
+  "pl_rade": 1.54,
+  "pl_eqt": null,
+  "st_teff": 5948
+ },
+ {
+  "pl_name": "Simulated-091 b",
+  "pl_orbper": 0.521,
+  "pl_rade": 10.39,
+  "pl_eqt": 1209,
+  "st_teff": 3310
+ },
+ {
+  "pl_name": "Simulated-092 c",
+  "pl_orbper": 5.6551,
+  "pl_rade": 2.3,
+  "pl_eqt": 812,
+  "st_teff": 3671
+ },
+ {
+  "pl_name": "Simulated-093 d",
+  "pl_orbper": 118.781,
+  "pl_rade": 7.37,
+  "pl_eqt": 304,
+  "st_teff": 4181
+ },
+ {
+  "pl_name": "Simulated-094 e",
+  "pl_orbper": 909.7234,
+  "pl_rade": 3.06,
+  "pl_eqt": null,
+  "st_teff": 3656
+ },
+ {
+  "pl_name": "Simulated-095 f",
+  "pl_orbper": 0.6197,
+  "pl_rade": 2.2,
+  "pl_eqt": null,
+  "st_teff": 5593
+ },
+ {
+  "pl_name": "Simulated-096 g",
+  "pl_orbper": 4.7957,
+  "pl_rade": 3.45,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-097 b",
+  "pl_orbper": 20.8446,
+  "pl_rade": 1.72,
+  "pl_eqt": 858,
+  "st_teff": 6908
+ },
+ {
+  "pl_name": "Simulated-098 c",
+  "pl_orbper": 15.8621,
+  "pl_rade": 3.98,
+  "pl_eqt": null,
+  "st_teff": 4835
+ },
+ {
+  "pl_name": "Simulated-099 d",
+  "pl_orbper": 2.4271,
+  "pl_rade": 13.07,
+  "pl_eqt": 1030,
+  "st_teff": 3946
+ },
+ {
+  "pl_name": "Simulated-100 e",
+  "pl_orbper": 6.3044,
+  "pl_rade": 3.24,
+  "pl_eqt": 649,
+  "st_teff": 3740
+ },
+ {
+  "pl_name": "Simulated-101 f",
+  "pl_orbper": 509.6339,
+  "pl_rade": 2.51,
+  "pl_eqt": 175,
+  "st_teff": 4734
+ },
+ {
+  "pl_name": "Simulated-102 g",
+  "pl_orbper": 1044.2473,
+  "pl_rade": 10.09,
+  "pl_eqt": null,
+  "st_teff": 5221
+ },
+ {
+  "pl_name": "Simulated-103 b",
+  "pl_orbper": 54.6232,
+  "pl_rade": 6.41,
+  "pl_eqt": 298,
+  "st_teff": 3585
+ },
+ {
+  "pl_name": "Simulated-104 c",
+  "pl_orbper": 4.5166,
+  "pl_rade": 6.48,
+  "pl_eqt": 903,
+  "st_teff": 4805
+ },
+ {
+  "pl_name": "Simulated-105 d",
+  "pl_orbper": 46.1094,
+  "pl_rade": 2.17,
+  "pl_eqt": null,
+  "st_teff": 5675
+ },
+ {
+  "pl_name": "Simulated-106 e",
+  "pl_orbper": 248.0065,
+  "pl_rade": 1.9,
+  "pl_eqt": 179,
+  "st_teff": 3263
+ },
+ {
+  "pl_name": "Simulated-107 f",
+  "pl_orbper": 415.098,
+  "pl_rade": 1.37,
+  "pl_eqt": 259,
+  "st_teff": 4929
+ },
+ {
+  "pl_name": "Simulated-108 g",
+  "pl_orbper": 161.2573,
+  "pl_rade": 11.8,
+  "pl_eqt": 218,
+  "st_teff": 3078
+ },
+ {
+  "pl_name": "Simulated-109 b",
+  "pl_orbper": 0.5007,
+  "pl_rade": 3.11,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-110 c",
+  "pl_orbper": 120.8193,
+  "pl_rade": 7.48,
+  "pl_eqt": 414,
+  "st_teff": 5622
+ },
+ {
+  "pl_name": "Simulated-111 d",
+  "pl_orbper": 13.4928,
+  "pl_rade": 3.46,
+  "pl_eqt": 933,
+  "st_teff": 6091
+ },
+ {
+  "pl_name": "Simulated-112 e",
+  "pl_orbper": 125.7305,
+  "pl_rade": 10.37,
+  "pl_eqt": null,
+  "st_teff": 7249
+ },
+ {
+  "pl_name": "Simulated-113 f",
+  "pl_orbper": 11.1931,
+  "pl_rade": 2.01,
+  "pl_eqt": 1010,
+  "st_teff": 7094
+ },
+ {
+  "pl_name": "Simulated-114 g",
+  "pl_orbper": 0.6202,
+  "pl_rade": 0.53,
+  "pl_eqt": 1055,
+  "st_teff": 2964
+ },
+ {
+  "pl_name": "Simulated-115 b",
+  "pl_orbper": 442.0543,
+  "pl_rade": 1.4,
+  "pl_eqt": null,
+  "st_teff": 6211
+ },
+ {
+  "pl_name": "Simulated-116 c",
+  "pl_orbper": 11.1485,
+  "pl_rade": 12.81,
+  "pl_eqt": null,
+  "st_teff": 6799
+ },
+ {
+  "pl_name": "Simulated-117 d",
+  "pl_orbper": 3.7809,
+  "pl_rade": 1.79,
+  "pl_eqt": 653,
+  "st_teff": 3223
+ },
+ {
+  "pl_name": "Simulated-118 e",
+  "pl_orbper": 224.9431,
+  "pl_rade": 2.1,
+  "pl_eqt": 188,
+  "st_teff": 3251
+ },
+ {
+  "pl_name": "Simulated-119 f",
+  "pl_orbper": 70.1027,
+  "pl_rade": 1.88,
+  "pl_eqt": 361,
+  "st_teff": 3939
+ },
+ {
+  "pl_name": "Simulated-120 g",
+  "pl_orbper": 47.5987,
+  "pl_rade": 2.96,
+  "pl_eqt": null,
+  "st_teff": 6633
+ },
+ {
+  "pl_name": "Simulated-121 b",
+  "pl_orbper": 552.6711,
+  "pl_rade": 2.93,
+  "pl_eqt": 154,
+  "st_teff": 3973
+ },
+ {
+  "pl_name": "Simulated-122 c",
+  "pl_orbper": 506.7307,
+  "pl_rade": 4.18,
+  "pl_eqt": 124,
+  "st_teff": 3027
+ },
+ {
+  "pl_name": "Simulated-123 d",
+  "pl_orbper": 0.7411,
+  "pl_rade": 3.82,
+  "pl_eqt": 1882,
+  "st_teff": 4469
+ },
+ {
+  "pl_name": "Simulated-124 e",
+  "pl_orbper": 7.2815,
+  "pl_rade": 1.21,
+  "pl_eqt": 1205,
+  "st_teff": 5984
+ },
+ {
+  "pl_name": "Simulated-125 f",
+  "pl_orbper": 159.5776,
+  "pl_rade": 1.69,
+  "pl_eqt": 359,
+  "st_teff": 6036
+ },
+ {
+  "pl_name": "Simulated-126 g",
+  "pl_orbper": 1.5786,
+  "pl_rade": 3.65,
+  "pl_eqt": 868,
+  "st_teff": 3195
+ },
+ {
+  "pl_name": "Simulated-127 b",
+  "pl_orbper": 36.2215,
+  "pl_rade": 15.26,
+  "pl_eqt": 266,
+  "st_teff": 2777
+ },
+ {
+  "pl_name": "Simulated-128 c",
+  "pl_orbper": 8.5843,
+  "pl_rade": 1.91,
+  "pl_eqt": 669,
+  "st_teff": 4183
+ },
+ {
+  "pl_name": "Simulated-129 d",
+  "pl_orbper": 64.7773,
+  "pl_rade": 1.88,
+  "pl_eqt": 271,
+  "st_teff": 3659
+ },
+ {
+  "pl_name": "Simulated-130 e",
+  "pl_orbper": 56.1012,
+  "pl_rade": 8.43,
+  "pl_eqt": 354,
+  "st_teff": 3670
+ },
+ {
+  "pl_name": "Simulated-131 f",
+  "pl_orbper": 1.1441,
+  "pl_rade": 4.38,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-132 g",
+  "pl_orbper": 1.2927,
+  "pl_rade": 15.9,
+  "pl_eqt": 978,
+  "st_teff": 2767
+ },
+ {
+  "pl_name": "Simulated-133 b",
+  "pl_orbper": 161.5501,
+  "pl_rade": 0.75,
+  "pl_eqt": null,
+  "st_teff": 2979
+ },
+ {
+  "pl_name": "Simulated-134 c",
+  "pl_orbper": 1.1088,
+  "pl_rade": 3.44,
+  "pl_eqt": null,
+  "st_teff": 7224
+ },
+ {
+  "pl_name": "Simulated-135 d",
+  "pl_orbper": 1.0009,
+  "pl_rade": 12.78,
+  "pl_eqt": 2176,
+  "st_teff": 6080
+ },
+ {
+  "pl_name": "Simulated-136 e",
+  "pl_orbper": 3.6024,
+  "pl_rade": 14.36,
+  "pl_eqt": 741,
+  "st_teff": 3297
+ },
+ {
+  "pl_name": "Simulated-137 f",
+  "pl_orbper": 312.368,
+  "pl_rade": 3.62,
+  "pl_eqt": 335,
+  "st_teff": 6277
+ },
+ {
+  "pl_name": "Simulated-138 g",
+  "pl_orbper": 2.5768,
+  "pl_rade": 4.2,
+  "pl_eqt": 707,
+  "st_teff": 3166
+ },
+ {
+  "pl_name": "Simulated-139 b",
+  "pl_orbper": 576.9183,
+  "pl_rade": 2.53,
+  "pl_eqt": 256,
+  "st_teff": 5875
+ },
+ {
+  "pl_name": "Simulated-140 c",
+  "pl_orbper": 2.2154,
+  "pl_rade": 6.39,
+  "pl_eqt": 1044,
+  "st_teff": 3649
+ },
+ {
+  "pl_name": "Simulated-141 d",
+  "pl_orbper": 8.5035,
+  "pl_rade": 5.46,
+  "pl_eqt": 898,
+  "st_teff": 5296
+ },
+ {
+  "pl_name": "Simulated-142 e",
+  "pl_orbper": 17.1617,
+  "pl_rade": 3.57,
+  "pl_eqt": 538,
+  "st_teff": 4327
+ },
+ {
+  "pl_name": "Simulated-143 f",
+  "pl_orbper": 1143.0291,
+  "pl_rade": 0.75,
+  "pl_eqt": 120,
+  "st_teff": 3244
+ },
+ {
+  "pl_name": "Simulated-144 g",
+  "pl_orbper": 3.0455,
+  "pl_rade": 3.23,
+  "pl_eqt": 740,
+  "st_teff": 3064
+ },
+ {
+  "pl_name": "Simulated-145 b",
+  "pl_orbper": 0.94,
+  "pl_rade": 0.81,
+  "pl_eqt": 2243,
+  "st_teff": 6374
+ },
+ {
+  "pl_name": "Simulated-146 c",
+  "pl_orbper": 202.2814,
+  "pl_rade": 3.62,
+  "pl_eqt": 310,
+  "st_teff": 6028
+ },
+ {
+  "pl_name": "Simulated-147 d",
+  "pl_orbper": 2.394,
+  "pl_rade": 3.96,
+  "pl_eqt": 1269,
+  "st_teff": 4374
+ },
+ {
+  "pl_name": "Simulated-148 e",
+  "pl_orbper": 29.5525,
+  "pl_rade": 0.91,
+  "pl_eqt": 413,
+  "st_teff": 3555
+ },
+ {
+  "pl_name": "Simulated-149 f",
+  "pl_orbper": 0.462,
+  "pl_rade": 11.87,
+  "pl_eqt": 1578,
+  "st_teff": 3548
+ },
+ {
+  "pl_name": "Simulated-150 g",
+  "pl_orbper": 8.1522,
+  "pl_rade": 3.67,
+  "pl_eqt": 542,
+  "st_teff": 3377
+ },
+ {
+  "pl_name": "Simulated-151 b",
+  "pl_orbper": 29.1198,
+  "pl_rade": 7.19,
+  "pl_eqt": 597,
+  "st_teff": 5630
+ },
+ {
+  "pl_name": "Simulated-152 c",
+  "pl_orbper": 1612.0753,
+  "pl_rade": 15.56,
+  "pl_eqt": 97,
+  "st_teff": 3295
+ },
+ {
+  "pl_name": "Simulated-153 d",
+  "pl_orbper": 467.6049,
+  "pl_rade": 1.71,
+  "pl_eqt": 322,
+  "st_teff": 6778
+ },
+ {
+  "pl_name": "Simulated-154 e",
+  "pl_orbper": 0.4758,
+  "pl_rade": 0.92,
+  "pl_eqt": 2660,
+  "st_teff": 5577
+ },
+ {
+  "pl_name": "Simulated-155 f",
+  "pl_orbper": 10.0594,
+  "pl_rade": 0.92,
+  "pl_eqt": null,
+  "st_teff": 3172
+ },
+ {
+  "pl_name": "Simulated-156 g",
+  "pl_orbper": 0.4177,
+  "pl_rade": 3.79,
+  "pl_eqt": 1676,
+  "st_teff": 3638
+ },
+ {
+  "pl_name": "Simulated-157 b",
+  "pl_orbper": 2.1297,
+  "pl_rade": 2.23,
+  "pl_eqt": 1699,
+  "st_teff": 5989
+ },
+ {
+  "pl_name": "Simulated-158 c",
+  "pl_orbper": 13.4067,
+  "pl_rade": 3.79,
+  "pl_eqt": null,
+  "st_teff": 5539
+ },
+ {
+  "pl_name": "Simulated-159 d",
+  "pl_orbper": 8.2314,
+  "pl_rade": 1.09,
+  "pl_eqt": 722,
+  "st_teff": 4200
+ },
+ {
+  "pl_name": "Simulated-160 e",
+  "pl_orbper": 51.404,
+  "pl_rade": 3.59,
+  "pl_eqt": 256,
+  "st_teff": 2727
+ },
+ {
+  "pl_name": "Simulated-161 f",
+  "pl_orbper": 10.8309,
+  "pl_rade": 3.66,
+  "pl_eqt": null,
+  "st_teff": 2978
+ },
+ {
+  "pl_name": "Simulated-162 g",
+  "pl_orbper": 5.5243,
+  "pl_rade": 3.47,
+  "pl_eqt": 799,
+  "st_teff": 3845
+ },
+ {
+  "pl_name": "Simulated-163 b",
+  "pl_orbper": 832.8126,
+  "pl_rade": 3.02,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-164 c",
+  "pl_orbper": 1083.8545,
+  "pl_rade": 0.5,
+  "pl_eqt": 83,
+  "st_teff": 2851
+ },
+ {
+  "pl_name": "Simulated-165 d",
+  "pl_orbper": 44.7105,
+  "pl_rade": 6.22,
+  "pl_eqt": 648,
+  "st_teff": 7082
+ },
+ {
+  "pl_name": "Simulated-166 e",
+  "pl_orbper": 91.8734,
+  "pl_rade": 3.97,
+  "pl_eqt": 546,
+  "st_teff": 7168
+ },
+ {
+  "pl_name": "Simulated-167 f",
+  "pl_orbper": 2.0687,
+  "pl_rade": 0.91,
+  "pl_eqt": 838,
+  "st_teff": 3271
+ },
+ {
+  "pl_name": "Simulated-168 g",
+  "pl_orbper": 13.282,
+  "pl_rade": 11.42,
+  "pl_eqt": null,
+  "st_teff": 7196
+ },
+ {
+  "pl_name": "Simulated-169 b",
+  "pl_orbper": 62.5495,
+  "pl_rade": 2.98,
+  "pl_eqt": 268,
+  "st_teff": 3117
+ },
+ {
+  "pl_name": "Simulated-170 c",
+  "pl_orbper": 53.0722,
+  "pl_rade": 6.53,
+  "pl_eqt": 307,
+  "st_teff": 3063
+ },
+ {
+  "pl_name": "Simulated-171 d",
+  "pl_orbper": 7.7482,
+  "pl_rade": 2.18,
+  "pl_eqt": 679,
+  "st_teff": 4461
+ },
+ {
+  "pl_name": "Simulated-172 e",
+  "pl_orbper": 7.8302,
+  "pl_rade": 0.64,
+  "pl_eqt": 704,
+  "st_teff": 3847
+ },
+ {
+  "pl_name": "Simulated-173 f",
+  "pl_orbper": 447.9295,
+  "pl_rade": 1.05,
+  "pl_eqt": null,
+  "st_teff": 3948
+ },
+ {
+  "pl_name": "Simulated-174 g",
+  "pl_orbper": 473.8849,
+  "pl_rade": 0.67,
+  "pl_eqt": 152,
+  "st_teff": 3942
+ },
+ {
+  "pl_name": "Simulated-175 b",
+  "pl_orbper": 1.9582,
+  "pl_rade": 2.08,
+  "pl_eqt": 1067,
+  "st_teff": 4237
+ },
+ {
+  "pl_name": "Simulated-176 c",
+  "pl_orbper": 2.0616,
+  "pl_rade": 15.96,
+  "pl_eqt": 1457,
+  "st_teff": 4772
+ },
+ {
+  "pl_name": "Simulated-177 d",
+  "pl_orbper": 46.7298,
+  "pl_rade": 3.48,
+  "pl_eqt": 345,
+  "st_teff": 3301
+ },
+ {
+  "pl_name": "Simulated-178 e",
+  "pl_orbper": 163.8485,
+  "pl_rade": 2.39,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-179 f",
+  "pl_orbper": 980.5658,
+  "pl_rade": 10.72,
+  "pl_eqt": 101,
+  "st_teff": 2921
+ },
+ {
+  "pl_name": "Simulated-180 g",
+  "pl_orbper": 545.04,
+  "pl_rade": 10.11,
+  "pl_eqt": 203,
+  "st_teff": 5480
+ },
+ {
+  "pl_name": "Simulated-181 b",
+  "pl_orbper": 0.8982,
+  "pl_rade": 4.18,
+  "pl_eqt": 1904,
+  "st_teff": 5033
+ },
+ {
+  "pl_name": "Simulated-182 c",
+  "pl_orbper": 3.3392,
+  "pl_rade": 7.89,
+  "pl_eqt": null,
+  "st_teff": 4703
+ },
+ {
+  "pl_name": "Simulated-183 d",
+  "pl_orbper": 0.5287,
+  "pl_rade": 12.16,
+  "pl_eqt": 1401,
+  "st_teff": 3205
+ },
+ {
+  "pl_name": "Simulated-184 e",
+  "pl_orbper": 39.4481,
+  "pl_rade": 8.42,
+  "pl_eqt": 400,
+  "st_teff": 3715
+ },
+ {
+  "pl_name": "Simulated-185 f",
+  "pl_orbper": 0.8233,
+  "pl_rade": 2.65,
+  "pl_eqt": 1043,
+  "st_teff": 2743
+ },
+ {
+  "pl_name": "Simulated-186 g",
+  "pl_orbper": 837.1595,
+  "pl_rade": 8.66,
+  "pl_eqt": 136,
+  "st_teff": 3847
+ },
+ {
+  "pl_name": "Simulated-187 b",
+  "pl_orbper": 5.249,
+  "pl_rade": 1.49,
+  "pl_eqt": 1150,
+  "st_teff": 6076
+ },
+ {
+  "pl_name": "Simulated-188 c",
+  "pl_orbper": 31.0157,
+  "pl_rade": 12.55,
+  "pl_eqt": null,
+  "st_teff": 6223
+ },
+ {
+  "pl_name": "Simulated-189 d",
+  "pl_orbper": 4.1377,
+  "pl_rade": 6.72,
+  "pl_eqt": 1503,
+  "st_teff": 6315
+ },
+ {
+  "pl_name": "Simulated-190 e",
+  "pl_orbper": 6.0245,
+  "pl_rade": 13.19,
+  "pl_eqt": null,
+  "st_teff": 6113
+ },
+ {
+  "pl_name": "Simulated-191 f",
+  "pl_orbper": 0.694,
+  "pl_rade": 4.15,
+  "pl_eqt": 2883,
+  "st_teff": 7070
+ },
+ {
+  "pl_name": "Simulated-192 g",
+  "pl_orbper": 0.889,
+  "pl_rade": 2.53,
+  "pl_eqt": 1289,
+  "st_teff": 3329
+ },
+ {
+  "pl_name": "Simulated-193 b",
+  "pl_orbper": 635.0537,
+  "pl_rade": 0.94,
+  "pl_eqt": null,
+  "st_teff": 3102
+ },
+ {
+  "pl_name": "Simulated-194 c",
+  "pl_orbper": 3.3832,
+  "pl_rade": 0.87,
+  "pl_eqt": 846,
+  "st_teff": 3487
+ },
+ {
+  "pl_name": "Simulated-195 d",
+  "pl_orbper": 1169.9535,
+  "pl_rade": 11.3,
+  "pl_eqt": null,
+  "st_teff": 3734
+ },
+ {
+  "pl_name": "Simulated-196 e",
+  "pl_orbper": 2.456,
+  "pl_rade": 0.72,
+  "pl_eqt": 1468,
+  "st_teff": 6231
+ },
+ {
+  "pl_name": "Simulated-197 f",
+  "pl_orbper": 226.0497,
+  "pl_rade": 1.94,
+  "pl_eqt": null,
+  "st_teff": 3094
+ },
+ {
+  "pl_name": "Simulated-198 g",
+  "pl_orbper": 0.5773,
+  "pl_rade": 3.4,
+  "pl_eqt": null,
+  "st_teff": 5175
+ },
+ {
+  "pl_name": "Simulated-199 b",
+  "pl_orbper": 0.4082,
+  "pl_rade": 0.88,
+  "pl_eqt": 1664,
+  "st_teff": 4185
+ },
+ {
+  "pl_name": "Simulated-200 c",
+  "pl_orbper": 18.55,
+  "pl_rade": 3.23,
+  "pl_eqt": null,
+  "st_teff": 2908
+ },
+ {
+  "pl_name": "Simulated-201 d",
+  "pl_orbper": 45.7269,
+  "pl_rade": 1.64,
+  "pl_eqt": 261,
+  "st_teff": 2891
+ },
+ {
+  "pl_name": "Simulated-202 e",
+  "pl_orbper": 399.5761,
+  "pl_rade": 1.87,
+  "pl_eqt": null,
+  "st_teff": 5870
+ },
+ {
+  "pl_name": "Simulated-203 f",
+  "pl_orbper": 0.8221,
+  "pl_rade": 1.63,
+  "pl_eqt": 1882,
+  "st_teff": 4566
+ },
+ {
+  "pl_name": "Simulated-204 g",
+  "pl_orbper": 146.9667,
+  "pl_rade": 3.08,
+  "pl_eqt": null,
+  "st_teff": 6178
+ },
+ {
+  "pl_name": "Simulated-205 b",
+  "pl_orbper": 1.0811,
+  "pl_rade": 0.91,
+  "pl_eqt": 1365,
+  "st_teff": 4741
+ },
+ {
+  "pl_name": "Simulated-206 c",
+  "pl_orbper": 2.2216,
+  "pl_rade": 8.35,
+  "pl_eqt": 1775,
+  "st_teff": 6021
+ },
+ {
+  "pl_name": "Simulated-207 d",
+  "pl_orbper": 1.0748,
+  "pl_rade": 0.98,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-208 e",
+  "pl_orbper": 6.7895,
+  "pl_rade": 1.09,
+  "pl_eqt": 1267,
+  "st_teff": 7277
+ },
+ {
+  "pl_name": "Simulated-209 f",
+  "pl_orbper": 2.6894,
+  "pl_rade": 2.34,
+  "pl_eqt": 935,
+  "st_teff": 3578
+ },
+ {
+  "pl_name": "Simulated-210 g",
+  "pl_orbper": 62.3273,
+  "pl_rade": 1.83,
+  "pl_eqt": 486,
+  "st_teff": 5576
+ },
+ {
+  "pl_name": "Simulated-211 b",
+  "pl_orbper": 310.8594,
+  "pl_rade": 2.92,
+  "pl_eqt": 390,
+  "st_teff": 7231
+ },
+ {
+  "pl_name": "Simulated-212 c",
+  "pl_orbper": 157.7365,
+  "pl_rade": 0.57,
+  "pl_eqt": 236,
+  "st_teff": 3274
+ },
+ {
+  "pl_name": "Simulated-213 d",
+  "pl_orbper": 6.347,
+  "pl_rade": 14.52,
+  "pl_eqt": 566,
+  "st_teff": 3429
+ },
+ {
+  "pl_name": "Simulated-214 e",
+  "pl_orbper": 15.8756,
+  "pl_rade": 0.63,
+  "pl_eqt": 603,
+  "st_teff": 4244
+ },
+ {
+  "pl_name": "Simulated-215 f",
+  "pl_orbper": 190.0959,
+  "pl_rade": 3.06,
+  "pl_eqt": 245,
+  "st_teff": 4084
+ },
+ {
+  "pl_name": "Simulated-216 g",
+  "pl_orbper": 2.1529,
+  "pl_rade": 14.97,
+  "pl_eqt": null,
+  "st_teff": 4877
+ },
+ {
+  "pl_name": "Simulated-217 b",
+  "pl_orbper": 26.9453,
+  "pl_rade": 12.96,
+  "pl_eqt": null,
+  "st_teff": 3886
+ },
+ {
+  "pl_name": "Simulated-218 c",
+  "pl_orbper": 122.931,
+  "pl_rade": 1.8,
+  "pl_eqt": 203,
+  "st_teff": 2876
+ },
+ {
+  "pl_name": "Simulated-219 d",
+  "pl_orbper": 0.6861,
+  "pl_rade": 3.19,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-220 e",
+  "pl_orbper": 2.4029,
+  "pl_rade": 8.01,
+  "pl_eqt": null,
+  "st_teff": 3888
+ },
+ {
+  "pl_name": "Simulated-221 f",
+  "pl_orbper": 1178.7488,
+  "pl_rade": 1.73,
+  "pl_eqt": 121,
+  "st_teff": 3656
+ },
+ {
+  "pl_name": "Simulated-222 g",
+  "pl_orbper": 241.46,
+  "pl_rade": 3.39,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-223 b",
+  "pl_orbper": 659.0816,
+  "pl_rade": 0.63,
+  "pl_eqt": 113,
+  "st_teff": 2986
+ },
+ {
+  "pl_name": "Simulated-224 c",
+  "pl_orbper": 460.505,
+  "pl_rade": 5.72,
+  "pl_eqt": 190,
+  "st_teff": 3714
+ },
+ {
+  "pl_name": "Simulated-225 d",
+  "pl_orbper": 6.7264,
+  "pl_rade": 10.74,
+  "pl_eqt": 1208,
+  "st_teff": 5800
+ },
+ {
+  "pl_name": "Simulated-226 e",
+  "pl_orbper": 630.5797,
+  "pl_rade": 2.27,
+  "pl_eqt": 155,
+  "st_teff": 3975
+ },
+ {
+  "pl_name": "Simulated-227 f",
+  "pl_orbper": 13.5926,
+  "pl_rade": 3.13,
+  "pl_eqt": 374,
+  "st_teff": 2802
+ },
+ {
+  "pl_name": "Simulated-228 g",
+  "pl_orbper": 1.3228,
+  "pl_rade": 0.62,
+  "pl_eqt": 833,
+  "st_teff": 2953
+ },
+ {
+  "pl_name": "Simulated-229 b",
+  "pl_orbper": 2.6227,
+  "pl_rade": 12.78,
+  "pl_eqt": 1337,
+  "st_teff": 5850
+ },
+ {
+  "pl_name": "Simulated-230 c",
+  "pl_orbper": 0.7424,
+  "pl_rade": 7.39,
+  "pl_eqt": 2492,
+  "st_teff": 6386
+ },
+ {
+  "pl_name": "Simulated-231 d",
+  "pl_orbper": 0.9655,
+  "pl_rade": 3.36,
+  "pl_eqt": 1038,
+  "st_teff": 3447
+ },
+ {
+  "pl_name": "Simulated-232 e",
+  "pl_orbper": 154.8505,
+  "pl_rade": 9.81,
+  "pl_eqt": 217,
+  "st_teff": 3504
+ },
+ {
+  "pl_name": "Simulated-233 f",
+  "pl_orbper": 318.5791,
+  "pl_rade": 1.75,
+  "pl_eqt": null,
+  "st_teff": 6065
+ },
+ {
+  "pl_name": "Simulated-234 g",
+  "pl_orbper": 995.9268,
+  "pl_rade": 2.65,
+  "pl_eqt": 210,
+  "st_teff": 5764
+ },
+ {
+  "pl_name": "Simulated-235 b",
+  "pl_orbper": 62.3569,
+  "pl_rade": 1.66,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-236 c",
+  "pl_orbper": 626.76,
+  "pl_rade": 0.86,
+  "pl_eqt": 200,
+  "st_teff": 5712
+ },
+ {
+  "pl_name": "Simulated-237 d",
+  "pl_orbper": 60.8797,
+  "pl_rade": 5.96,
+  "pl_eqt": 616,
+  "st_teff": 7201
+ },
+ {
+  "pl_name": "Simulated-238 e",
+  "pl_orbper": 5.8115,
+  "pl_rade": 4.21,
+  "pl_eqt": 544,
+  "st_teff": 2838
+ },
+ {
+  "pl_name": "Simulated-239 f",
+  "pl_orbper": 2.4689,
+  "pl_rade": 4.58,
+  "pl_eqt": null,
+  "st_teff": 4226
+ },
+ {
+  "pl_name": "Simulated-240 g",
+  "pl_orbper": 29.9973,
+  "pl_rade": 2.88,
+  "pl_eqt": null,
+  "st_teff": 3903
+ },
+ {
+  "pl_name": "Simulated-241 b",
+  "pl_orbper": 2.8962,
+  "pl_rade": 13.88,
+  "pl_eqt": 1049,
+  "st_teff": 4180
+ },
+ {
+  "pl_name": "Simulated-242 c",
+  "pl_orbper": 779.2352,
+  "pl_rade": 15.91,
+  "pl_eqt": 136,
+  "st_teff": 4022
+ },
+ {
+  "pl_name": "Simulated-243 d",
+  "pl_orbper": 779.4535,
+  "pl_rade": 7.03,
+  "pl_eqt": 130,
+  "st_teff": 3298
+ },
+ {
+  "pl_name": "Simulated-244 e",
+  "pl_orbper": 1367.0052,
+  "pl_rade": 7.92,
+  "pl_eqt": 139,
+  "st_teff": 3910
+ },
+ {
+  "pl_name": "Simulated-245 f",
+  "pl_orbper": 9.2186,
+  "pl_rade": 2.54,
+  "pl_eqt": 553,
+  "st_teff": 3653
+ },
+ {
+  "pl_name": "Simulated-246 g",
+  "pl_orbper": 2.7204,
+  "pl_rade": 5.89,
+  "pl_eqt": 986,
+  "st_teff": 3577
+ },
+ {
+  "pl_name": "Simulated-247 b",
+  "pl_orbper": 20.8189,
+  "pl_rade": 3.76,
+  "pl_eqt": 509,
+  "st_teff": 4046
+ },
+ {
+  "pl_name": "Simulated-248 c",
+  "pl_orbper": 0.4736,
+  "pl_rade": 2.07,
+  "pl_eqt": null,
+  "st_teff": 5787
+ },
+ {
+  "pl_name": "Simulated-249 d",
+  "pl_orbper": 687.2819,
+  "pl_rade": 3.54,
+  "pl_eqt": 200,
+  "st_teff": 5474
+ },
+ {
+  "pl_name": "Simulated-250 e",
+  "pl_orbper": 59.7078,
+  "pl_rade": 2.02,
+  "pl_eqt": 454,
+  "st_teff": 5875
+ },
+ {
+  "pl_name": "Simulated-251 f",
+  "pl_orbper": 69.8665,
+  "pl_rade": 10.83,
+  "pl_eqt": 220,
+  "st_teff": 2708
+ },
+ {
+  "pl_name": "Simulated-252 g",
+  "pl_orbper": 0.5883,
+  "pl_rade": 8.74,
+  "pl_eqt": 1572,
+  "st_teff": 3854
+ },
+ {
+  "pl_name": "Simulated-253 b",
+  "pl_orbper": 520.9993,
+  "pl_rade": 2.32,
+  "pl_eqt": 123,
+  "st_teff": 2904
+ },
+ {
+  "pl_name": "Simulated-254 c",
+  "pl_orbper": 26.0446,
+  "pl_rade": 14.72,
+  "pl_eqt": 421,
+  "st_teff": 4178
+ },
+ {
+  "pl_name": "Simulated-255 d",
+  "pl_orbper": 109.2764,
+  "pl_rade": 8.48,
+  "pl_eqt": 437,
+  "st_teff": 7124
+ },
+ {
+  "pl_name": "Simulated-256 e",
+  "pl_orbper": 1.0822,
+  "pl_rade": 1.96,
+  "pl_eqt": 2229,
+  "st_teff": 6903
+ },
+ {
+  "pl_name": "Simulated-257 f",
+  "pl_orbper": 29.8629,
+  "pl_rade": 2.72,
+  "pl_eqt": null,
+  "st_teff": 3868
+ },
+ {
+  "pl_name": "Simulated-258 g",
+  "pl_orbper": 2055.2204,
+  "pl_rade": 4.51,
+  "pl_eqt": 93,
+  "st_teff": 3409
+ },
+ {
+  "pl_name": "Simulated-259 b",
+  "pl_orbper": 140.5292,
+  "pl_rade": 0.81,
+  "pl_eqt": null,
+  "st_teff": 2732
+ },
+ {
+  "pl_name": "Simulated-260 c",
+  "pl_orbper": 13.5471,
+  "pl_rade": 0.8,
+  "pl_eqt": 522,
+  "st_teff": 3701
+ },
+ {
+  "pl_name": "Simulated-261 d",
+  "pl_orbper": 1.0159,
+  "pl_rade": 9.63,
+  "pl_eqt": 1208,
+  "st_teff": 3950
+ },
+ {
+  "pl_name": "Simulated-262 e",
+  "pl_orbper": 449.2362,
+  "pl_rade": 1.15,
+  "pl_eqt": 137,
+  "st_teff": 3279
+ },
+ {
+  "pl_name": "Simulated-263 f",
+  "pl_orbper": 1.1208,
+  "pl_rade": 1.67,
+  "pl_eqt": 1867,
+  "st_teff": 5721
+ },
+ {
+  "pl_name": "Simulated-264 g",
+  "pl_orbper": 1.808,
+  "pl_rade": 4.58,
+  "pl_eqt": null,
+  "st_teff": 5395
+ },
+ {
+  "pl_name": "Simulated-265 b",
+  "pl_orbper": 947.7534,
+  "pl_rade": 2.74,
+  "pl_eqt": null,
+  "st_teff": 6369
+ },
+ {
+  "pl_name": "Simulated-266 c",
+  "pl_orbper": 32.5996,
+  "pl_rade": 0.69,
+  "pl_eqt": null,
+  "st_teff": 3804
+ },
+ {
+  "pl_name": "Simulated-267 d",
+  "pl_orbper": 1.4942,
+  "pl_rade": 3.9,
+  "pl_eqt": null,
+  "st_teff": 6907
+ },
+ {
+  "pl_name": "Simulated-268 e",
+  "pl_orbper": 9.8057,
+  "pl_rade": 2.57,
+  "pl_eqt": null,
+  "st_teff": 3311
+ },
+ {
+  "pl_name": "Simulated-269 f",
+  "pl_orbper": 1.4233,
+  "pl_rade": 1.35,
+  "pl_eqt": null,
+  "st_teff": 6810
+ },
+ {
+  "pl_name": "Simulated-270 g",
+  "pl_orbper": 2.2498,
+  "pl_rade": 1.53,
+  "pl_eqt": 1295,
+  "st_teff": 5087
+ },
+ {
+  "pl_name": "Simulated-271 b",
+  "pl_orbper": 27.224,
+  "pl_rade": 2.0,
+  "pl_eqt": 521,
+  "st_teff": 4201
+ },
+ {
+  "pl_name": "Simulated-272 c",
+  "pl_orbper": 1.957,
+  "pl_rade": 2.34,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-273 d",
+  "pl_orbper": 11.5827,
+  "pl_rade": 15.92,
+  "pl_eqt": 665,
+  "st_teff": 4596
+ },
+ {
+  "pl_name": "Simulated-274 e",
+  "pl_orbper": 345.8908,
+  "pl_rade": 13.28,
+  "pl_eqt": null,
+  "st_teff": 5981
+ },
+ {
+  "pl_name": "Simulated-275 f",
+  "pl_orbper": 99.4102,
+  "pl_rade": 3.69,
+  "pl_eqt": null,
+  "st_teff": 3506
+ },
+ {
+  "pl_name": "Simulated-276 g",
+  "pl_orbper": 159.5471,
+  "pl_rade": 6.67,
+  "pl_eqt": 221,
+  "st_teff": 3070
+ },
+ {
+  "pl_name": "Simulated-277 b",
+  "pl_orbper": 10.6424,
+  "pl_rade": 14.23,
+  "pl_eqt": 580,
+  "st_teff": 3717
+ },
+ {
+  "pl_name": "Simulated-278 c",
+  "pl_orbper": 271.7294,
+  "pl_rade": 9.71,
+  "pl_eqt": 397,
+  "st_teff": 7278
+ },
+ {
+  "pl_name": "Simulated-279 d",
+  "pl_orbper": 10.0318,
+  "pl_rade": 0.81,
+  "pl_eqt": 770,
+  "st_teff": 5352
+ },
+ {
+  "pl_name": "Simulated-280 e",
+  "pl_orbper": 237.2496,
+  "pl_rade": 2.48,
+  "pl_eqt": 300,
+  "st_teff": 5764
+ },
+ {
+  "pl_name": "Simulated-281 f",
+  "pl_orbper": 173.9956,
+  "pl_rade": 3.17,
+  "pl_eqt": 177,
+  "st_teff": 3243
+ },
+ {
+  "pl_name": "Simulated-282 g",
+  "pl_orbper": 477.6326,
+  "pl_rade": 2.26,
+  "pl_eqt": 273,
+  "st_teff": 5895
+ },
+ {
+  "pl_name": "Simulated-283 b",
+  "pl_orbper": 142.8064,
+  "pl_rade": 5.71,
+  "pl_eqt": 292,
+  "st_teff": 4639
+ },
+ {
+  "pl_name": "Simulated-284 c",
+  "pl_orbper": 92.4198,
+  "pl_rade": 7.07,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-285 d",
+  "pl_orbper": 910.7958,
+  "pl_rade": 8.58,
+  "pl_eqt": 109,
+  "st_teff": 2829
+ },
+ {
+  "pl_name": "Simulated-286 e",
+  "pl_orbper": 12.658,
+  "pl_rade": 4.2,
+  "pl_eqt": null,
+  "st_teff": 2889
+ },
+ {
+  "pl_name": "Simulated-287 f",
+  "pl_orbper": 1.2841,
+  "pl_rade": 2.13,
+  "pl_eqt": 1249,
+  "st_teff": 3640
+ },
+ {
+  "pl_name": "Simulated-288 g",
+  "pl_orbper": 27.9131,
+  "pl_rade": 4.15,
+  "pl_eqt": 652,
+  "st_teff": 6351
+ },
+ {
+  "pl_name": "Simulated-289 b",
+  "pl_orbper": 2.7957,
+  "pl_rade": 6.85,
+  "pl_eqt": 756,
+  "st_teff": 3162
+ },
+ {
+  "pl_name": "Simulated-290 c",
+  "pl_orbper": 109.0652,
+  "pl_rade": 2.51,
+  "pl_eqt": null,
+  "st_teff": 7034
+ },
+ {
+  "pl_name": "Simulated-291 d",
+  "pl_orbper": 0.8802,
+  "pl_rade": 4.06,
+  "pl_eqt": 1205,
+  "st_teff": 2940
+ },
+ {
+  "pl_name": "Simulated-292 e",
+  "pl_orbper": 7.6188,
+  "pl_rade": 1.32,
+  "pl_eqt": 544,
+  "st_teff": 3118
+ },
+ {
+  "pl_name": "Simulated-293 f",
+  "pl_orbper": 3.5493,
+  "pl_rade": 14.74,
+  "pl_eqt": 778,
+  "st_teff": 3729
+ },
+ {
+  "pl_name": "Simulated-294 g",
+  "pl_orbper": 24.9341,
+  "pl_rade": 3.7,
+  "pl_eqt": null,
+  "st_teff": 4666
+ },
+ {
+  "pl_name": "Simulated-295 b",
+  "pl_orbper": 0.6887,
+  "pl_rade": 5.45,
+  "pl_eqt": 1562,
+  "st_teff": 3703
+ },
+ {
+  "pl_name": "Simulated-296 c",
+  "pl_orbper": 484.4312,
+  "pl_rade": 7.75,
+  "pl_eqt": 132,
+  "st_teff": 2831
+ },
+ {
+  "pl_name": "Simulated-297 d",
+  "pl_orbper": 33.8754,
+  "pl_rade": 8.61,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-298 e",
+  "pl_orbper": 341.6759,
+  "pl_rade": 10.34,
+  "pl_eqt": 240,
+  "st_teff": 5065
+ },
+ {
+  "pl_name": "Simulated-299 f",
+  "pl_orbper": 192.3649,
+  "pl_rade": 11.39,
+  "pl_eqt": 358,
+  "st_teff": 6835
+ },
+ {
+  "pl_name": "Simulated-300 g",
+  "pl_orbper": 2.1209,
+  "pl_rade": 1.42,
+  "pl_eqt": 1127,
+  "st_teff": 3819
+ },
+ {
+  "pl_name": "Simulated-301 b",
+  "pl_orbper": 1.2948,
+  "pl_rade": 0.73,
+  "pl_eqt": null,
+  "st_teff": 3552
+ },
+ {
+  "pl_name": "Simulated-302 c",
+  "pl_orbper": 413.9073,
+  "pl_rade": 1.08,
+  "pl_eqt": null,
+  "st_teff": 3054
+ },
+ {
+  "pl_name": "Simulated-303 d",
+  "pl_orbper": 0.609,
+  "pl_rade": 2.79,
+  "pl_eqt": 1819,
+  "st_teff": 4676
+ },
+ {
+  "pl_name": "Simulated-304 e",
+  "pl_orbper": 24.3076,
+  "pl_rade": 1.97,
+  "pl_eqt": 824,
+  "st_teff": 6580
+ },
+ {
+  "pl_name": "Simulated-305 f",
+  "pl_orbper": 724.9992,
+  "pl_rade": 1.9,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-306 g",
+  "pl_orbper": 60.0426,
+  "pl_rade": 2.86,
+  "pl_eqt": null,
+  "st_teff": 6711
+ },
+ {
+  "pl_name": "Simulated-307 b",
+  "pl_orbper": 759.5758,
+  "pl_rade": 10.66,
+  "pl_eqt": null,
+  "st_teff": 3177
+ },
+ {
+  "pl_name": "Simulated-308 c",
+  "pl_orbper": 1.774,
+  "pl_rade": 6.41,
+  "pl_eqt": 1668,
+  "st_teff": 6090
+ },
+ {
+  "pl_name": "Simulated-309 d",
+  "pl_orbper": 353.6267,
+  "pl_rade": 1.19,
+  "pl_eqt": 159,
+  "st_teff": 3369
+ },
+ {
+  "pl_name": "Simulated-310 e",
+  "pl_orbper": 63.8007,
+  "pl_rade": 0.86,
+  "pl_eqt": 413,
+  "st_teff": 5607
+ },
+ {
+  "pl_name": "Simulated-311 f",
+  "pl_orbper": 29.9642,
+  "pl_rade": 2.36,
+  "pl_eqt": null,
+  "st_teff": 5674
+ },
+ {
+  "pl_name": "Simulated-312 g",
+  "pl_orbper": 17.1685,
+  "pl_rade": 7.94,
+  "pl_eqt": null,
+  "st_teff": 3984
+ },
+ {
+  "pl_name": "Simulated-313 b",
+  "pl_orbper": 3.5521,
+  "pl_rade": 15.26,
+  "pl_eqt": 574,
+  "st_teff": 2863
+ },
+ {
+  "pl_name": "Simulated-314 c",
+  "pl_orbper": 12.5889,
+  "pl_rade": 3.46,
+  "pl_eqt": 751,
+  "st_teff": 5232
+ },
+ {
+  "pl_name": "Simulated-315 d",
+  "pl_orbper": 40.9757,
+  "pl_rade": 9.74,
+  "pl_eqt": 704,
+  "st_teff": 6695
+ },
+ {
+  "pl_name": "Simulated-316 e",
+  "pl_orbper": 315.7275,
+  "pl_rade": 5.3,
+  "pl_eqt": 127,
+  "st_teff": 2934
+ },
+ {
+  "pl_name": "Simulated-317 f",
+  "pl_orbper": 56.6762,
+  "pl_rade": 1.02,
+  "pl_eqt": null,
+  "st_teff": 5720
+ },
+ {
+  "pl_name": "Simulated-318 g",
+  "pl_orbper": 3242.6357,
+  "pl_rade": 1.23,
+  "pl_eqt": null,
+  "st_teff": 7035
+ },
+ {
+  "pl_name": "Simulated-319 b",
+  "pl_orbper": 3.3528,
+  "pl_rade": 0.5,
+  "pl_eqt": 590,
+  "st_teff": 2792
+ },
+ {
+  "pl_name": "Simulated-320 c",
+  "pl_orbper": 446.35,
+  "pl_rade": 3.19,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-321 d",
+  "pl_orbper": 3.6414,
+  "pl_rade": 9.82,
+  "pl_eqt": null,
+  "st_teff": 4650
+ },
+ {
+  "pl_name": "Simulated-322 e",
+  "pl_orbper": 0.857,
+  "pl_rade": 0.8,
+  "pl_eqt": 2488,
+  "st_teff": 6075
+ },
+ {
+  "pl_name": "Simulated-323 f",
+  "pl_orbper": 0.5356,
+  "pl_rade": 1.45,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-324 g",
+  "pl_orbper": 3018.4664,
+  "pl_rade": 2.47,
+  "pl_eqt": 79,
+  "st_teff": 3728
+ },
+ {
+  "pl_name": "Simulated-325 b",
+  "pl_orbper": 118.7093,
+  "pl_rade": 8.99,
+  "pl_eqt": 347,
+  "st_teff": 5015
+ },
+ {
+  "pl_name": "Simulated-326 c",
+  "pl_orbper": 4.993,
+  "pl_rade": 2.05,
+  "pl_eqt": 530,
+  "st_teff": 2921
+ },
+ {
+  "pl_name": "Simulated-327 d",
+  "pl_orbper": 5.0161,
+  "pl_rade": 15.64,
+  "pl_eqt": 1237,
+  "st_teff": 6836
+ },
+ {
+  "pl_name": "Simulated-328 e",
+  "pl_orbper": 0.4665,
+  "pl_rade": 5.75,
+  "pl_eqt": 1830,
+  "st_teff": 4303
+ },
+ {
+  "pl_name": "Simulated-329 f",
+  "pl_orbper": 20.8438,
+  "pl_rade": 2.75,
+  "pl_eqt": 717,
+  "st_teff": 5866
+ },
+ {
+  "pl_name": "Simulated-330 g",
+  "pl_orbper": 3.3411,
+  "pl_rade": 4.16,
+  "pl_eqt": 559,
+  "st_teff": 2745
+ },
+ {
+  "pl_name": "Simulated-331 b",
+  "pl_orbper": 6.6482,
+  "pl_rade": 1.19,
+  "pl_eqt": 1222,
+  "st_teff": 6025
+ },
+ {
+  "pl_name": "Simulated-332 c",
+  "pl_orbper": 1.9681,
+  "pl_rade": 1.98,
+  "pl_eqt": null,
+  "st_teff": 5900
+ },
+ {
+  "pl_name": "Simulated-333 d",
+  "pl_orbper": 95.551,
+  "pl_rade": 1.37,
+  "pl_eqt": 223,
+  "st_teff": 2926
+ },
+ {
+  "pl_name": "Simulated-334 e",
+  "pl_orbper": 284.4588,
+  "pl_rade": 1.47,
+  "pl_eqt": 351,
+  "st_teff": 7248
+ },
+ {
+  "pl_name": "Simulated-335 f",
+  "pl_orbper": 632.7797,
+  "pl_rade": 1.7,
+  "pl_eqt": 189,
+  "st_teff": 4874
+ },
+ {
+  "pl_name": "Simulated-336 g",
+  "pl_orbper": 578.6374,
+  "pl_rade": 6.31,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-337 b",
+  "pl_orbper": 5.1796,
+  "pl_rade": 7.62,
+  "pl_eqt": 863,
+  "st_teff": 4913
+ },
+ {
+  "pl_name": "Simulated-338 c",
+  "pl_orbper": 54.613,
+  "pl_rade": 0.54,
+  "pl_eqt": 432,
+  "st_teff": 4851
+ },
+ {
+  "pl_name": "Simulated-339 d",
+  "pl_orbper": 0.6964,
+  "pl_rade": 2.4,
+  "pl_eqt": null,
+  "st_teff": 4074
+ },
+ {
+  "pl_name": "Simulated-340 e",
+  "pl_orbper": 514.2243,
+  "pl_rade": 0.6,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-341 f",
+  "pl_orbper": 2.2743,
+  "pl_rade": 2.11,
+  "pl_eqt": 999,
+  "st_teff": 3543
+ },
+ {
+  "pl_name": "Simulated-342 g",
+  "pl_orbper": 2.1501,
+  "pl_rade": 11.63,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-343 b",
+  "pl_orbper": 60.4804,
+  "pl_rade": 11.46,
+  "pl_eqt": 271,
+  "st_teff": 3188
+ },
+ {
+  "pl_name": "Simulated-344 c",
+  "pl_orbper": 16.3309,
+  "pl_rade": 12.72,
+  "pl_eqt": 810,
+  "st_teff": 5351
+ },
+ {
+  "pl_name": "Simulated-345 d",
+  "pl_orbper": 0.6198,
+  "pl_rade": 13.65,
+  "pl_eqt": 1537,
+  "st_teff": 3931
+ },
+ {
+  "pl_name": "Simulated-346 e",
+  "pl_orbper": 17.8676,
+  "pl_rade": 5.03,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-347 f",
+  "pl_orbper": 0.4494,
+  "pl_rade": 3.23,
+  "pl_eqt": 1961,
+  "st_teff": 4150
+ },
+ {
+  "pl_name": "Simulated-348 g",
+  "pl_orbper": 4.3329,
+  "pl_rade": 4.34,
+  "pl_eqt": 1238,
+  "st_teff": 6215
+ },
+ {
+  "pl_name": "Simulated-349 b",
+  "pl_orbper": 396.2914,
+  "pl_rade": 5.34,
+  "pl_eqt": 169,
+  "st_teff": 3808
+ },
+ {
+  "pl_name": "Simulated-350 c",
+  "pl_orbper": 0.9354,
+  "pl_rade": 14.61,
+  "pl_eqt": 1673,
+  "st_teff": 4911
+ },
+ {
+  "pl_name": "Simulated-351 d",
+  "pl_orbper": 658.5289,
+  "pl_rade": 1.99,
+  "pl_eqt": 210,
+  "st_teff": 5840
+ },
+ {
+  "pl_name": "Simulated-352 e",
+  "pl_orbper": 2.1895,
+  "pl_rade": 3.73,
+  "pl_eqt": 998,
+  "st_teff": 3596
+ },
+ {
+  "pl_name": "Simulated-353 f",
+  "pl_orbper": 246.9208,
+  "pl_rade": 0.78,
+  "pl_eqt": null,
+  "st_teff": 5680
+ },
+ {
+  "pl_name": "Simulated-354 g",
+  "pl_orbper": 90.7875,
+  "pl_rade": 9.91,
+  "pl_eqt": 224,
+  "st_teff": 2974
+ },
+ {
+  "pl_name": "Simulated-355 b",
+  "pl_orbper": 0.4086,
+  "pl_rade": 3.02,
+  "pl_eqt": 2703,
+  "st_teff": 5703
+ },
+ {
+  "pl_name": "Simulated-356 c",
+  "pl_orbper": 1037.9521,
+  "pl_rade": 2.52,
+  "pl_eqt": 156,
+  "st_teff": 4131
+ },
+ {
+  "pl_name": "Simulated-357 d",
+  "pl_orbper": 3.4341,
+  "pl_rade": 2.41,
+  "pl_eqt": null,
+  "st_teff": 4553
+ },
+ {
+  "pl_name": "Simulated-358 e",
+  "pl_orbper": 55.6756,
+  "pl_rade": 3.73,
+  "pl_eqt": 307,
+  "st_teff": 3241
+ },
+ {
+  "pl_name": "Simulated-359 f",
+  "pl_orbper": 10.5207,
+  "pl_rade": 2.1,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-360 g",
+  "pl_orbper": 512.0385,
+  "pl_rade": 2.84,
+  "pl_eqt": 143,
+  "st_teff": 3420
+ },
+ {
+  "pl_name": "Simulated-361 b",
+  "pl_orbper": 81.7191,
+  "pl_rade": 2.02,
+  "pl_eqt": 296,
+  "st_teff": 3771
+ },
+ {
+  "pl_name": "Simulated-362 c",
+  "pl_orbper": 18.8983,
+  "pl_rade": 6.9,
+  "pl_eqt": 443,
+  "st_teff": 3686
+ },
+ {
+  "pl_name": "Simulated-363 d",
+  "pl_orbper": 115.9816,
+  "pl_rade": 6.67,
+  "pl_eqt": 188,
+  "st_teff": 2748
+ },
+ {
+  "pl_name": "Simulated-364 e",
+  "pl_orbper": 1.4872,
+  "pl_rade": 3.64,
+  "pl_eqt": 1138,
+  "st_teff": 4254
+ },
+ {
+  "pl_name": "Simulated-365 f",
+  "pl_orbper": 249.1109,
+  "pl_rade": 3.34,
+  "pl_eqt": 179,
+  "st_teff": 3578
+ },
+ {
+  "pl_name": "Simulated-366 g",
+  "pl_orbper": 560.3279,
+  "pl_rade": 3.45,
+  "pl_eqt": 151,
+  "st_teff": 3649
+ },
+ {
+  "pl_name": "Simulated-367 b",
+  "pl_orbper": 27.1403,
+  "pl_rade": 2.43,
+  "pl_eqt": null,
+  "st_teff": 2750
+ },
+ {
+  "pl_name": "Simulated-368 c",
+  "pl_orbper": 4.7192,
+  "pl_rade": 1.76,
+  "pl_eqt": 723,
+  "st_teff": 3129
+ },
+ {
+  "pl_name": "Simulated-369 d",
+  "pl_orbper": 10.4504,
+  "pl_rade": 12.99,
+  "pl_eqt": 1198,
+  "st_teff": 7274
+ },
+ {
+  "pl_name": "Simulated-370 e",
+  "pl_orbper": 180.8607,
+  "pl_rade": 3.94,
+  "pl_eqt": null,
+  "st_teff": 4612
+ },
+ {
+  "pl_name": "Simulated-371 f",
+  "pl_orbper": 0.4798,
+  "pl_rade": 8.19,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-372 g",
+  "pl_orbper": 87.3653,
+  "pl_rade": 7.95,
+  "pl_eqt": 215,
+  "st_teff": 3077
+ },
+ {
+  "pl_name": "Simulated-373 b",
+  "pl_orbper": 1.9052,
+  "pl_rade": 6.04,
+  "pl_eqt": null,
+  "st_teff": 2897
+ },
+ {
+  "pl_name": "Simulated-374 c",
+  "pl_orbper": 0.4162,
+  "pl_rade": 1.23,
+  "pl_eqt": null,
+  "st_teff": 4742
+ },
+ {
+  "pl_name": "Simulated-375 d",
+  "pl_orbper": 90.7211,
+  "pl_rade": 12.91,
+  "pl_eqt": null,
+  "st_teff": 4246
+ },
+ {
+  "pl_name": "Simulated-376 e",
+  "pl_orbper": 82.6825,
+  "pl_rade": 15.45,
+  "pl_eqt": 346,
+  "st_teff": 4339
+ },
+ {
+  "pl_name": "Simulated-377 f",
+  "pl_orbper": 6.7517,
+  "pl_rade": 1.66,
+  "pl_eqt": null,
+  "st_teff": 3967
+ },
+ {
+  "pl_name": "Simulated-378 g",
+  "pl_orbper": 0.6823,
+  "pl_rade": 3.53,
+  "pl_eqt": 2297,
+  "st_teff": 5387
+ },
+ {
+  "pl_name": "Simulated-379 b",
+  "pl_orbper": 0.822,
+  "pl_rade": 2.69,
+  "pl_eqt": 1740,
+  "st_teff": 4260
+ },
+ {
+  "pl_name": "Simulated-380 c",
+  "pl_orbper": 1.0604,
+  "pl_rade": 9.81,
+  "pl_eqt": 2116,
+  "st_teff": 6499
+ },
+ {
+  "pl_name": "Simulated-381 d",
+  "pl_orbper": 62.973,
+  "pl_rade": 3.0,
+  "pl_eqt": null,
+  "st_teff": 4498
+ },
+ {
+  "pl_name": "Simulated-382 e",
+  "pl_orbper": 851.6858,
+  "pl_rade": 0.56,
+  "pl_eqt": 241,
+  "st_teff": 5917
+ },
+ {
+  "pl_name": "Simulated-383 f",
+  "pl_orbper": 619.5771,
+  "pl_rade": 1.48,
+  "pl_eqt": null,
+  "st_teff": 5620
+ },
+ {
+  "pl_name": "Simulated-384 g",
+  "pl_orbper": 374.9451,
+  "pl_rade": 2.85,
+  "pl_eqt": 275,
+  "st_teff": 5445
+ },
+ {
+  "pl_name": "Simulated-385 b",
+  "pl_orbper": 561.3945,
+  "pl_rade": 0.82,
+  "pl_eqt": 335,
+  "st_teff": 7232
+ },
+ {
+  "pl_name": "Simulated-386 c",
+  "pl_orbper": 9.4837,
+  "pl_rade": 1.07,
+  "pl_eqt": 629,
+  "st_teff": 3782
+ },
+ {
+  "pl_name": "Simulated-387 d",
+  "pl_orbper": 897.2688,
+  "pl_rade": 1.72,
+  "pl_eqt": 172,
+  "st_teff": 4507
+ },
+ {
+  "pl_name": "Simulated-388 e",
+  "pl_orbper": 1.3155,
+  "pl_rade": 0.84,
+  "pl_eqt": 1836,
+  "st_teff": 5908
+ },
+ {
+  "pl_name": "Simulated-389 f",
+  "pl_orbper": 9.1368,
+  "pl_rade": 14.38,
+  "pl_eqt": null,
+  "st_teff": 4049
+ },
+ {
+  "pl_name": "Simulated-390 g",
+  "pl_orbper": 69.9759,
+  "pl_rade": 3.36,
+  "pl_eqt": null,
+  "st_teff": 4970
+ },
+ {
+  "pl_name": "Simulated-391 b",
+  "pl_orbper": 280.3463,
+  "pl_rade": 12.66,
+  "pl_eqt": 284,
+  "st_teff": 5056
+ },
+ {
+  "pl_name": "Simulated-392 c",
+  "pl_orbper": 0.8746,
+  "pl_rade": 6.72,
+  "pl_eqt": 1060,
+  "st_teff": 2710
+ },
+ {
+  "pl_name": "Simulated-393 d",
+  "pl_orbper": 39.73,
+  "pl_rade": 8.18,
+  "pl_eqt": 464,
+  "st_teff": 5302
+ },
+ {
+  "pl_name": "Simulated-394 e",
+  "pl_orbper": 12.0754,
+  "pl_rade": 2.22,
+  "pl_eqt": 554,
+  "st_teff": 3636
+ },
+ {
+  "pl_name": "Simulated-395 f",
+  "pl_orbper": 96.3874,
+  "pl_rade": 1.3,
+  "pl_eqt": 274,
+  "st_teff": 3191
+ },
+ {
+  "pl_name": "Simulated-396 g",
+  "pl_orbper": 696.1549,
+  "pl_rade": 3.61,
+  "pl_eqt": null,
+  "st_teff": 3042
+ },
+ {
+  "pl_name": "Simulated-397 b",
+  "pl_orbper": 835.6327,
+  "pl_rade": 9.68,
+  "pl_eqt": 150,
+  "st_teff": 3911
+ },
+ {
+  "pl_name": "Simulated-398 c",
+  "pl_orbper": 129.2915,
+  "pl_rade": 2.1,
+  "pl_eqt": 197,
+  "st_teff": 3051
+ },
+ {
+  "pl_name": "Simulated-399 d",
+  "pl_orbper": 272.4591,
+  "pl_rade": 1.38,
+  "pl_eqt": 343,
+  "st_teff": 5847
+ },
+ {
+  "pl_name": "Simulated-400 e",
+  "pl_orbper": 799.4505,
+  "pl_rade": 9.02,
+  "pl_eqt": 178,
+  "st_teff": 4326
+ },
+ {
+  "pl_name": "Simulated-401 f",
+  "pl_orbper": 50.5388,
+  "pl_rade": 3.42,
+  "pl_eqt": 513,
+  "st_teff": 5765
+ },
+ {
+  "pl_name": "Simulated-402 g",
+  "pl_orbper": 30.5811,
+  "pl_rade": 2.56,
+  "pl_eqt": 530,
+  "st_teff": 4750
+ },
+ {
+  "pl_name": "Simulated-403 b",
+  "pl_orbper": 14.1064,
+  "pl_rade": 2.94,
+  "pl_eqt": 409,
+  "st_teff": 2762
+ },
+ {
+  "pl_name": "Simulated-404 c",
+  "pl_orbper": 105.0428,
+  "pl_rade": 10.35,
+  "pl_eqt": 251,
+  "st_teff": 3447
+ },
+ {
+  "pl_name": "Simulated-405 d",
+  "pl_orbper": 10.584,
+  "pl_rade": 8.65,
+  "pl_eqt": 638,
+  "st_teff": 3766
+ },
+ {
+  "pl_name": "Simulated-406 e",
+  "pl_orbper": 83.2271,
+  "pl_rade": 9.05,
+  "pl_eqt": null,
+  "st_teff": 2732
+ },
+ {
+  "pl_name": "Simulated-407 f",
+  "pl_orbper": 0.8239,
+  "pl_rade": 8.94,
+  "pl_eqt": 1238,
+  "st_teff": 3129
+ },
+ {
+  "pl_name": "Simulated-408 g",
+  "pl_orbper": 6.2601,
+  "pl_rade": 6.21,
+  "pl_eqt": null,
+  "st_teff": 3818
+ },
+ {
+  "pl_name": "Simulated-409 b",
+  "pl_orbper": 65.6909,
+  "pl_rade": 4.0,
+  "pl_eqt": null,
+  "st_teff": 6045
+ },
+ {
+  "pl_name": "Simulated-410 c",
+  "pl_orbper": 0.6349,
+  "pl_rade": 6.04,
+  "pl_eqt": 1377,
+  "st_teff": 3396
+ },
+ {
+  "pl_name": "Simulated-411 d",
+  "pl_orbper": 30.2832,
+  "pl_rade": 11.76,
+  "pl_eqt": 401,
+  "st_teff": 3750
+ },
+ {
+  "pl_name": "Simulated-412 e",
+  "pl_orbper": 4.0013,
+  "pl_rade": 3.77,
+  "pl_eqt": 1212,
+  "st_teff": 5476
+ },
+ {
+  "pl_name": "Simulated-413 f",
+  "pl_orbper": 0.4118,
+  "pl_rade": 14.77,
+  "pl_eqt": 2967,
+  "st_teff": 6359
+ },
+ {
+  "pl_name": "Simulated-414 g",
+  "pl_orbper": 6.207,
+  "pl_rade": 10.68,
+  "pl_eqt": 1106,
+  "st_teff": 5904
+ },
+ {
+  "pl_name": "Simulated-415 b",
+  "pl_orbper": 0.8629,
+  "pl_rade": 7.43,
+  "pl_eqt": null,
+  "st_teff": 5350
+ },
+ {
+  "pl_name": "Simulated-416 c",
+  "pl_orbper": 72.4382,
+  "pl_rade": 2.01,
+  "pl_eqt": 490,
+  "st_teff": 5660
+ },
+ {
+  "pl_name": "Simulated-417 d",
+  "pl_orbper": 19.7811,
+  "pl_rade": 0.64,
+  "pl_eqt": null,
+  "st_teff": 3730
+ },
+ {
+  "pl_name": "Simulated-418 e",
+  "pl_orbper": 8.9209,
+  "pl_rade": 8.15,
+  "pl_eqt": 809,
+  "st_teff": 4371
+ },
+ {
+  "pl_name": "Simulated-419 f",
+  "pl_orbper": 313.8621,
+  "pl_rade": 12.79,
+  "pl_eqt": 197,
+  "st_teff": 4444
+ },
+ {
+  "pl_name": "Simulated-420 g",
+  "pl_orbper": 808.0942,
+  "pl_rade": 13.19,
+  "pl_eqt": 151,
+  "st_teff": 4711
+ },
+ {
+  "pl_name": "Simulated-421 b",
+  "pl_orbper": 271.9886,
+  "pl_rade": 6.66,
+  "pl_eqt": 307,
+  "st_teff": 5525
+ },
+ {
+  "pl_name": "Simulated-422 c",
+  "pl_orbper": 906.6719,
+  "pl_rade": 0.7,
+  "pl_eqt": 142,
+  "st_teff": 4036
+ },
+ {
+  "pl_name": "Simulated-423 d",
+  "pl_orbper": 1.7462,
+  "pl_rade": 2.18,
+  "pl_eqt": 1536,
+  "st_teff": 5518
+ },
+ {
+  "pl_name": "Simulated-424 e",
+  "pl_orbper": 11.7696,
+  "pl_rade": 5.07,
+  "pl_eqt": 969,
+  "st_teff": 6052
+ },
+ {
+  "pl_name": "Simulated-425 f",
+  "pl_orbper": 2.6636,
+  "pl_rade": 10.32,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-426 g",
+  "pl_orbper": 6.1754,
+  "pl_rade": 3.12,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-427 b",
+  "pl_orbper": 11.0192,
+  "pl_rade": 4.2,
+  "pl_eqt": null,
+  "st_teff": 4339
+ },
+ {
+  "pl_name": "Simulated-428 c",
+  "pl_orbper": 98.8676,
+  "pl_rade": 3.71,
+  "pl_eqt": 291,
+  "st_teff": 3788
+ },
+ {
+  "pl_name": "Simulated-429 d",
+  "pl_orbper": 0.9242,
+  "pl_rade": 8.1,
+  "pl_eqt": 1486,
+  "st_teff": 4598
+ },
+ {
+  "pl_name": "Simulated-430 e",
+  "pl_orbper": 6.0115,
+  "pl_rade": 1.38,
+  "pl_eqt": 552,
+  "st_teff": 2715
+ },
+ {
+  "pl_name": "Simulated-431 f",
+  "pl_orbper": 18.0391,
+  "pl_rade": 3.52,
+  "pl_eqt": null,
+  "st_teff": 3972
+ },
+ {
+  "pl_name": "Simulated-432 g",
+  "pl_orbper": 1033.6574,
+  "pl_rade": 5.19,
+  "pl_eqt": 121,
+  "st_teff": 3404
+ },
+ {
+  "pl_name": "Simulated-433 b",
+  "pl_orbper": 942.7461,
+  "pl_rade": 5.05,
+  "pl_eqt": 145,
+  "st_teff": 3685
+ },
+ {
+  "pl_name": "Simulated-434 c",
+  "pl_orbper": 5.3472,
+  "pl_rade": 3.05,
+  "pl_eqt": 1110,
+  "st_teff": 5701
+ },
+ {
+  "pl_name": "Simulated-435 d",
+  "pl_orbper": 1.0605,
+  "pl_rade": 8.73,
+  "pl_eqt": null,
+  "st_teff": 6814
+ },
+ {
+  "pl_name": "Simulated-436 e",
+  "pl_orbper": 83.4273,
+  "pl_rade": 9.61,
+  "pl_eqt": null,
+  "st_teff": 5360
+ },
+ {
+  "pl_name": "Simulated-437 f",
+  "pl_orbper": 2.4775,
+  "pl_rade": 3.77,
+  "pl_eqt": 1122,
+  "st_teff": 4544
+ },
+ {
+  "pl_name": "Simulated-438 g",
+  "pl_orbper": 5.9075,
+  "pl_rade": 1.24,
+  "pl_eqt": 895,
+  "st_teff": 5396
+ },
+ {
+  "pl_name": "Simulated-439 b",
+  "pl_orbper": 7.9508,
+  "pl_rade": 10.19,
+  "pl_eqt": 883,
+  "st_teff": 5543
+ },
+ {
+  "pl_name": "Simulated-440 c",
+  "pl_orbper": 15.4447,
+  "pl_rade": 2.26,
+  "pl_eqt": 704,
+  "st_teff": 5821
+ },
+ {
+  "pl_name": "Simulated-441 d",
+  "pl_orbper": 0.4268,
+  "pl_rade": 10.27,
+  "pl_eqt": null,
+  "st_teff": 3647
+ },
+ {
+  "pl_name": "Simulated-442 e",
+  "pl_orbper": 414.1919,
+  "pl_rade": 7.66,
+  "pl_eqt": null,
+  "st_teff": 4944
+ },
+ {
+  "pl_name": "Simulated-443 f",
+  "pl_orbper": 0.4971,
+  "pl_rade": 3.93,
+  "pl_eqt": 2119,
+  "st_teff": 5572
+ },
+ {
+  "pl_name": "Simulated-444 g",
+  "pl_orbper": 886.4838,
+  "pl_rade": 11.89,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-445 b",
+  "pl_orbper": 5.3704,
+  "pl_rade": 4.29,
+  "pl_eqt": null,
+  "st_teff": 7163
+ },
+ {
+  "pl_name": "Simulated-446 c",
+  "pl_orbper": 6.5367,
+  "pl_rade": 4.68,
+  "pl_eqt": 736,
+  "st_teff": 3662
+ },
+ {
+  "pl_name": "Simulated-447 d",
+  "pl_orbper": 55.4549,
+  "pl_rade": 4.0,
+  "pl_eqt": 355,
+  "st_teff": 3922
+ },
+ {
+  "pl_name": "Simulated-448 e",
+  "pl_orbper": 3.3241,
+  "pl_rade": 9.66,
+  "pl_eqt": null,
+  "st_teff": 5706
+ },
+ {
+  "pl_name": "Simulated-449 f",
+  "pl_orbper": 4.8973,
+  "pl_rade": 3.37,
+  "pl_eqt": 641,
+  "st_teff": 3147
+ },
+ {
+  "pl_name": "Simulated-450 g",
+  "pl_orbper": 99.2016,
+  "pl_rade": 10.14,
+  "pl_eqt": null,
+  "st_teff": 3278
+ },
+ {
+  "pl_name": "Simulated-451 b",
+  "pl_orbper": 159.7301,
+  "pl_rade": 1.51,
+  "pl_eqt": null,
+  "st_teff": 4854
+ },
+ {
+  "pl_name": "Simulated-452 c",
+  "pl_orbper": 0.588,
+  "pl_rade": 1.99,
+  "pl_eqt": 2037,
+  "st_teff": 5218
+ },
+ {
+  "pl_name": "Simulated-453 d",
+  "pl_orbper": 580.2392,
+  "pl_rade": 3.5,
+  "pl_eqt": 256,
+  "st_teff": 7048
+ },
+ {
+  "pl_name": "Simulated-454 e",
+  "pl_orbper": 50.2246,
+  "pl_rade": 1.03,
+  "pl_eqt": null,
+  "st_teff": 4003
+ },
+ {
+  "pl_name": "Simulated-455 f",
+  "pl_orbper": 1.5957,
+  "pl_rade": 9.85,
+  "pl_eqt": null,
+  "st_teff": 6852
+ },
+ {
+  "pl_name": "Simulated-456 g",
+  "pl_orbper": 0.8922,
+  "pl_rade": 7.6,
+  "pl_eqt": null,
+  "st_teff": 6032
+ },
+ {
+  "pl_name": "Simulated-457 b",
+  "pl_orbper": 82.9987,
+  "pl_rade": 2.32,
+  "pl_eqt": 233,
+  "st_teff": 2717
+ },
+ {
+  "pl_name": "Simulated-458 c",
+  "pl_orbper": 1.6449,
+  "pl_rade": 8.47,
+  "pl_eqt": null,
+  "st_teff": 4420
+ },
+ {
+  "pl_name": "Simulated-459 d",
+  "pl_orbper": 1.0217,
+  "pl_rade": 8.73,
+  "pl_eqt": 2296,
+  "st_teff": 5920
+ },
+ {
+  "pl_name": "Simulated-460 e",
+  "pl_orbper": 10.6603,
+  "pl_rade": 3.58,
+  "pl_eqt": null,
+  "st_teff": 5909
+ },
+ {
+  "pl_name": "Simulated-461 f",
+  "pl_orbper": 9.379,
+  "pl_rade": 6.59,
+  "pl_eqt": 428,
+  "st_teff": 2833
+ },
+ {
+  "pl_name": "Simulated-462 g",
+  "pl_orbper": 38.0729,
+  "pl_rade": 1.74,
+  "pl_eqt": null,
+  "st_teff": 6511
+ },
+ {
+  "pl_name": "Simulated-463 b",
+  "pl_orbper": 0.9239,
+  "pl_rade": 5.15,
+  "pl_eqt": 2118,
+  "st_teff": 6799
+ },
+ {
+  "pl_name": "Simulated-464 c",
+  "pl_orbper": 187.759,
+  "pl_rade": 3.18,
+  "pl_eqt": 323,
+  "st_teff": 5792
+ },
+ {
+  "pl_name": "Simulated-465 d",
+  "pl_orbper": 3.1458,
+  "pl_rade": 9.4,
+  "pl_eqt": 838,
+  "st_teff": 3862
+ },
+ {
+  "pl_name": "Simulated-466 e",
+  "pl_orbper": 44.65,
+  "pl_rade": 2.17,
+  "pl_eqt": 408,
+  "st_teff": 3853
+ },
+ {
+  "pl_name": "Simulated-467 f",
+  "pl_orbper": 5.3229,
+  "pl_rade": 2.53,
+  "pl_eqt": 1167,
+  "st_teff": 5854
+ },
+ {
+  "pl_name": "Simulated-468 g",
+  "pl_orbper": 4.07,
+  "pl_rade": 2.39,
+  "pl_eqt": 754,
+  "st_teff": 3212
+ },
+ {
+  "pl_name": "Simulated-469 b",
+  "pl_orbper": 2.0494,
+  "pl_rade": 2.0,
+  "pl_eqt": 1579,
+  "st_teff": 5755
+ },
+ {
+  "pl_name": "Simulated-470 c",
+  "pl_orbper": 3.9965,
+  "pl_rade": 1.41,
+  "pl_eqt": 592,
+  "st_teff": 2927
+ },
+ {
+  "pl_name": "Simulated-471 d",
+  "pl_orbper": 2.3144,
+  "pl_rade": 12.16,
+  "pl_eqt": 711,
+  "st_teff": 2726
+ },
+ {
+  "pl_name": "Simulated-472 e",
+  "pl_orbper": 13.6274,
+  "pl_rade": 3.35,
+  "pl_eqt": null,
+  "st_teff": 5429
+ },
+ {
+  "pl_name": "Simulated-473 f",
+  "pl_orbper": 60.1124,
+  "pl_rade": 0.87,
+  "pl_eqt": null,
+  "st_teff": 5641
+ },
+ {
+  "pl_name": "Simulated-474 g",
+  "pl_orbper": 34.3099,
+  "pl_rade": 10.84,
+  "pl_eqt": null,
+  "st_teff": 6039
+ },
+ {
+  "pl_name": "Simulated-475 b",
+  "pl_orbper": 652.9263,
+  "pl_rade": 5.48,
+  "pl_eqt": null,
+  "st_teff": 2934
+ },
+ {
+  "pl_name": "Simulated-476 c",
+  "pl_orbper": 0.89,
+  "pl_rade": 3.06,
+  "pl_eqt": 1641,
+  "st_teff": 4398
+ },
+ {
+  "pl_name": "Simulated-477 d",
+  "pl_orbper": 598.6001,
+  "pl_rade": 3.53,
+  "pl_eqt": 161,
+  "st_teff": 3708
+ },
+ {
+  "pl_name": "Simulated-478 e",
+  "pl_orbper": 127.2343,
+  "pl_rade": 3.33,
+  "pl_eqt": 318,
+  "st_teff": 4634
+ },
+ {
+  "pl_name": "Simulated-479 f",
+  "pl_orbper": 16.1632,
+  "pl_rade": 1.69,
+  "pl_eqt": 396,
+  "st_teff": 3253
+ },
+ {
+  "pl_name": "Simulated-480 g",
+  "pl_orbper": 1.3235,
+  "pl_rade": 1.8,
+  "pl_eqt": 1090,
+  "st_teff": 3460
+ },
+ {
+  "pl_name": "Simulated-481 b",
+  "pl_orbper": 0.5534,
+  "pl_rade": 13.68,
+  "pl_eqt": 2744,
+  "st_teff": 6854
+ },
+ {
+  "pl_name": "Simulated-482 c",
+  "pl_orbper": 5.0037,
+  "pl_rade": 2.3,
+  "pl_eqt": 1108,
+  "st_teff": 4926
+ },
+ {
+  "pl_name": "Simulated-483 d",
+  "pl_orbper": 642.0712,
+  "pl_rade": 7.5,
+  "pl_eqt": 137,
+  "st_teff": 3563
+ },
+ {
+  "pl_name": "Simulated-484 e",
+  "pl_orbper": 583.9749,
+  "pl_rade": 11.59,
+  "pl_eqt": null,
+  "st_teff": 3948
+ },
+ {
+  "pl_name": "Simulated-485 f",
+  "pl_orbper": 1.2662,
+  "pl_rade": 2.56,
+  "pl_eqt": null,
+  "st_teff": 6053
+ },
+ {
+  "pl_name": "Simulated-486 g",
+  "pl_orbper": 1.1622,
+  "pl_rade": 10.77,
+  "pl_eqt": 1066,
+  "st_teff": 2987
+ },
+ {
+  "pl_name": "Simulated-487 b",
+  "pl_orbper": 3.097,
+  "pl_rade": 1.44,
+  "pl_eqt": 916,
+  "st_teff": 4538
+ },
+ {
+  "pl_name": "Simulated-488 c",
+  "pl_orbper": 3.8577,
+  "pl_rade": 3.28,
+  "pl_eqt": 974,
+  "st_teff": 4043
+ },
+ {
+  "pl_name": "Simulated-489 d",
+  "pl_orbper": 9.7985,
+  "pl_rade": 12.8,
+  "pl_eqt": 819,
+  "st_teff": 4976
+ },
+ {
+  "pl_name": "Simulated-490 e",
+  "pl_orbper": 60.9425,
+  "pl_rade": 2.3,
+  "pl_eqt": 261,
+  "st_teff": 2740
+ },
+ {
+  "pl_name": "Simulated-491 f",
+  "pl_orbper": 445.2172,
+  "pl_rade": 7.77,
+  "pl_eqt": 264,
+  "st_teff": 5790
+ },
+ {
+  "pl_name": "Simulated-492 g",
+  "pl_orbper": 2.0909,
+  "pl_rade": 15.39,
+  "pl_eqt": 687,
+  "st_teff": 2969
+ },
+ {
+  "pl_name": "Simulated-493 b",
+  "pl_orbper": 104.6071,
+  "pl_rade": 6.05,
+  "pl_eqt": 230,
+  "st_teff": 3439
+ },
+ {
+  "pl_name": "Simulated-494 c",
+  "pl_orbper": 582.2597,
+  "pl_rade": 0.86,
+  "pl_eqt": 128,
+  "st_teff": 3263
+ },
+ {
+  "pl_name": "Simulated-495 d",
+  "pl_orbper": 9.4671,
+  "pl_rade": 8.12,
+  "pl_eqt": 664,
+  "st_teff": 3674
+ },
+ {
+  "pl_name": "Simulated-496 e",
+  "pl_orbper": 1.6321,
+  "pl_rade": 4.64,
+  "pl_eqt": null,
+  "st_teff": 3174
+ },
+ {
+  "pl_name": "Simulated-497 f",
+  "pl_orbper": 0.6408,
+  "pl_rade": 15.64,
+  "pl_eqt": 1605,
+  "st_teff": 3990
+ },
+ {
+  "pl_name": "Simulated-498 g",
+  "pl_orbper": 7.2108,
+  "pl_rade": 1.08,
+  "pl_eqt": 590,
+  "st_teff": 3004
+ },
+ {
+  "pl_name": "Simulated-499 b",
+  "pl_orbper": 24.1194,
+  "pl_rade": 1.9,
+  "pl_eqt": 474,
+  "st_teff": 3488
+ },
+ {
+  "pl_name": "Simulated-500 c",
+  "pl_orbper": 0.5278,
+  "pl_rade": 1.64,
+  "pl_eqt": null,
+  "st_teff": 3314
+ },
+ {
+  "pl_name": "Simulated-501 d",
+  "pl_orbper": 0.4159,
+  "pl_rade": 7.62,
+  "pl_eqt": 3200,
+  "st_teff": 6463
+ },
+ {
+  "pl_name": "Simulated-502 e",
+  "pl_orbper": 663.224,
+  "pl_rade": 4.53,
+  "pl_eqt": 258,
+  "st_teff": 6864
+ },
+ {
+  "pl_name": "Simulated-503 f",
+  "pl_orbper": 417.6389,
+  "pl_rade": 0.98,
+  "pl_eqt": 242,
+  "st_teff": 5573
+ },
+ {
+  "pl_name": "Simulated-504 g",
+  "pl_orbper": 6.5783,
+  "pl_rade": 4.48,
+  "pl_eqt": 691,
+  "st_teff": 3575
+ },
+ {
+  "pl_name": "Simulated-505 b",
+  "pl_orbper": 89.3402,
+  "pl_rade": 1.67,
+  "pl_eqt": 297,
+  "st_teff": 3504
+ },
+ {
+  "pl_name": "Simulated-506 c",
+  "pl_orbper": 0.7787,
+  "pl_rade": 10.82,
+  "pl_eqt": 2182,
+  "st_teff": 5401
+ },
+ {
+  "pl_name": "Simulated-507 d",
+  "pl_orbper": 95.1609,
+  "pl_rade": 7.33,
+  "pl_eqt": 248,
+  "st_teff": 3314
+ },
+ {
+  "pl_name": "Simulated-508 e",
+  "pl_orbper": 1.0508,
+  "pl_rade": 1.73,
+  "pl_eqt": 1568,
+  "st_teff": 5001
+ },
+ {
+  "pl_name": "Simulated-509 f",
+  "pl_orbper": 1.9648,
+  "pl_rade": 2.66,
+  "pl_eqt": null,
+  "st_teff": 5194
+ },
+ {
+  "pl_name": "Simulated-510 g",
+  "pl_orbper": 82.6944,
+  "pl_rade": 3.76,
+  "pl_eqt": 394,
+  "st_teff": 4378
+ },
+ {
+  "pl_name": "Simulated-511 b",
+  "pl_orbper": 5.3434,
+  "pl_rade": 1.31,
+  "pl_eqt": 814,
+  "st_teff": 4631
+ },
+ {
+  "pl_name": "Simulated-512 c",
+  "pl_orbper": 1.0874,
+  "pl_rade": 3.28,
+  "pl_eqt": null,
+  "st_teff": 6872
+ },
+ {
+  "pl_name": "Simulated-513 d",
+  "pl_orbper": 11.4672,
+  "pl_rade": 3.71,
+  "pl_eqt": 861,
+  "st_teff": 5754
+ },
+ {
+  "pl_name": "Simulated-514 e",
+  "pl_orbper": 273.2174,
+  "pl_rade": 3.68,
+  "pl_eqt": null,
+  "st_teff": 5307
+ },
+ {
+  "pl_name": "Simulated-515 f",
+  "pl_orbper": 7.5977,
+  "pl_rade": 8.44,
+  "pl_eqt": 518,
+  "st_teff": 3224
+ },
+ {
+  "pl_name": "Simulated-516 g",
+  "pl_orbper": 705.977,
+  "pl_rade": 15.99,
+  "pl_eqt": 157,
+  "st_teff": 4749
+ },
+ {
+  "pl_name": "Simulated-517 b",
+  "pl_orbper": 6.1624,
+  "pl_rade": 8.96,
+  "pl_eqt": 1163,
+  "st_teff": 5690
+ },
+ {
+  "pl_name": "Simulated-518 c",
+  "pl_orbper": 30.5179,
+  "pl_rade": 0.88,
+  "pl_eqt": 442,
+  "st_teff": 3909
+ },
+ {
+  "pl_name": "Simulated-519 d",
+  "pl_orbper": 2.4187,
+  "pl_rade": 8.3,
+  "pl_eqt": null,
+  "st_teff": 7106
+ },
+ {
+  "pl_name": "Simulated-520 e",
+  "pl_orbper": 108.1048,
+  "pl_rade": 8.48,
+  "pl_eqt": 220,
+  "st_teff": 2985
+ },
+ {
+  "pl_name": "Simulated-521 f",
+  "pl_orbper": 1.339,
+  "pl_rade": 3.24,
+  "pl_eqt": null,
+  "st_teff": 5520
+ },
+ {
+  "pl_name": "Simulated-522 g",
+  "pl_orbper": 52.1758,
+  "pl_rade": 1.72,
+  "pl_eqt": null,
+  "st_teff": 3338
+ },
+ {
+  "pl_name": "Simulated-523 b",
+  "pl_orbper": 3.9036,
+  "pl_rade": 0.96,
+  "pl_eqt": null,
+  "st_teff": 5303
+ },
+ {
+  "pl_name": "Simulated-524 c",
+  "pl_orbper": 1.1334,
+  "pl_rade": 8.45,
+  "pl_eqt": null,
+  "st_teff": 6087
+ },
+ {
+  "pl_name": "Simulated-525 d",
+  "pl_orbper": 1172.8178,
+  "pl_rade": 1.9,
+  "pl_eqt": 77,
+  "st_teff": 2779
+ },
+ {
+  "pl_name": "Simulated-526 e",
+  "pl_orbper": 6.8922,
+  "pl_rade": 3.28,
+  "pl_eqt": 1159,
+  "st_teff": 5716
+ },
+ {
+  "pl_name": "Simulated-527 f",
+  "pl_orbper": 255.2059,
+  "pl_rade": 4.23,
+  "pl_eqt": 177,
+  "st_teff": 3629
+ },
+ {
+  "pl_name": "Simulated-528 g",
+  "pl_orbper": 191.3909,
+  "pl_rade": 3.25,
+  "pl_eqt": 365,
+  "st_teff": 5411
+ },
+ {
+  "pl_name": "Simulated-529 b",
+  "pl_orbper": 166.3041,
+  "pl_rade": 2.0,
+  "pl_eqt": 218,
+  "st_teff": 3157
+ },
+ {
+  "pl_name": "Simulated-530 c",
+  "pl_orbper": 1300.8569,
+  "pl_rade": 1.2,
+  "pl_eqt": null,
+  "st_teff": 5406
+ },
+ {
+  "pl_name": "Simulated-531 d",
+  "pl_orbper": 5.2184,
+  "pl_rade": 1.34,
+  "pl_eqt": 575,
+  "st_teff": 3318
+ },
+ {
+  "pl_name": "Simulated-532 e",
+  "pl_orbper": 38.0408,
+  "pl_rade": 8.03,
+  "pl_eqt": 540,
+  "st_teff": 5273
+ },
+ {
+  "pl_name": "Simulated-533 f",
+  "pl_orbper": 8.7766,
+  "pl_rade": 11.67,
+  "pl_eqt": 564,
+  "st_teff": 3845
+ },
+ {
+  "pl_name": "Simulated-534 g",
+  "pl_orbper": 126.4079,
+  "pl_rade": 10.05,
+  "pl_eqt": 383,
+  "st_teff": 5923
+ },
+ {
+  "pl_name": "Simulated-535 b",
+  "pl_orbper": 2.2448,
+  "pl_rade": 6.73,
+  "pl_eqt": 971,
+  "st_teff": 3541
+ },
+ {
+  "pl_name": "Simulated-536 c",
+  "pl_orbper": 2.0932,
+  "pl_rade": 2.08,
+  "pl_eqt": 1650,
+  "st_teff": 5667
+ },
+ {
+  "pl_name": "Simulated-537 d",
+  "pl_orbper": 7.4867,
+  "pl_rade": 3.61,
+  "pl_eqt": 575,
+  "st_teff": 3543
+ },
+ {
+  "pl_name": "Simulated-538 e",
+  "pl_orbper": 3.6576,
+  "pl_rade": 1.75,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-539 f",
+  "pl_orbper": 0.4253,
+  "pl_rade": 0.76,
+  "pl_eqt": 1634,
+  "st_teff": 4046
+ },
+ {
+  "pl_name": "Simulated-540 g",
+  "pl_orbper": 483.9393,
+  "pl_rade": 2.65,
+  "pl_eqt": 136,
+  "st_teff": 3032
+ },
+ {
+  "pl_name": "Simulated-541 b",
+  "pl_orbper": 0.4971,
+  "pl_rade": 2.72,
+  "pl_eqt": null,
+  "st_teff": 3897
+ },
+ {
+  "pl_name": "Simulated-542 c",
+  "pl_orbper": 7.9318,
+  "pl_rade": 2.71,
+  "pl_eqt": null,
+  "st_teff": 3142
+ },
+ {
+  "pl_name": "Simulated-543 d",
+  "pl_orbper": 713.7119,
+  "pl_rade": 2.07,
+  "pl_eqt": 167,
+  "st_teff": 3940
+ },
+ {
+  "pl_name": "Simulated-544 e",
+  "pl_orbper": 23.4379,
+  "pl_rade": 1.78,
+  "pl_eqt": 304,
+  "st_teff": 2876
+ },
+ {
+  "pl_name": "Simulated-545 f",
+  "pl_orbper": 17.3203,
+  "pl_rade": 0.73,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-546 g",
+  "pl_orbper": 2.1214,
+  "pl_rade": 2.95,
+  "pl_eqt": null,
+  "st_teff": 5695
+ },
+ {
+  "pl_name": "Simulated-547 b",
+  "pl_orbper": 2.6612,
+  "pl_rade": 3.68,
+  "pl_eqt": 1296,
+  "st_teff": 5809
+ },
+ {
+  "pl_name": "Simulated-548 c",
+  "pl_orbper": 36.9413,
+  "pl_rade": 3.22,
+  "pl_eqt": null,
+  "st_teff": 3743
+ },
+ {
+  "pl_name": "Simulated-549 d",
+  "pl_orbper": 0.7492,
+  "pl_rade": 3.87,
+  "pl_eqt": null,
+  "st_teff": 5410
+ },
+ {
+  "pl_name": "Simulated-550 e",
+  "pl_orbper": 192.3974,
+  "pl_rade": 2.82,
+  "pl_eqt": 184,
+  "st_teff": 3308
+ },
+ {
+  "pl_name": "Simulated-551 f",
+  "pl_orbper": 242.6797,
+  "pl_rade": 5.02,
+  "pl_eqt": 151,
+  "st_teff": 3098
+ },
+ {
+  "pl_name": "Simulated-552 g",
+  "pl_orbper": 121.0131,
+  "pl_rade": 1.18,
+  "pl_eqt": 439,
+  "st_teff": 6010
+ },
+ {
+  "pl_name": "Simulated-553 b",
+  "pl_orbper": 1.5741,
+  "pl_rade": 7.82,
+  "pl_eqt": null,
+  "st_teff": 3272
+ },
+ {
+  "pl_name": "Simulated-554 c",
+  "pl_orbper": 1986.6736,
+  "pl_rade": 13.25,
+  "pl_eqt": 117,
+  "st_teff": 4615
+ },
+ {
+  "pl_name": "Simulated-555 d",
+  "pl_orbper": 0.8552,
+  "pl_rade": 1.37,
+  "pl_eqt": 1822,
+  "st_teff": 5327
+ },
+ {
+  "pl_name": "Simulated-556 e",
+  "pl_orbper": 36.7558,
+  "pl_rade": 4.62,
+  "pl_eqt": 531,
+  "st_teff": 5161
+ },
+ {
+  "pl_name": "Simulated-557 f",
+  "pl_orbper": 1095.0114,
+  "pl_rade": 0.74,
+  "pl_eqt": null,
+  "st_teff": 3240
+ },
+ {
+  "pl_name": "Simulated-558 g",
+  "pl_orbper": 198.7079,
+  "pl_rade": 3.51,
+  "pl_eqt": 294,
+  "st_teff": 5364
+ },
+ {
+  "pl_name": "Simulated-559 b",
+  "pl_orbper": 96.4325,
+  "pl_rade": 6.77,
+  "pl_eqt": 330,
+  "st_teff": 4778
+ },
+ {
+  "pl_name": "Simulated-560 c",
+  "pl_orbper": 84.7344,
+  "pl_rade": 2.91,
+  "pl_eqt": 393,
+  "st_teff": 5561
+ },
+ {
+  "pl_name": "Simulated-561 d",
+  "pl_orbper": 2.8314,
+  "pl_rade": 12.25,
+  "pl_eqt": 1401,
+  "st_teff": 5654
+ },
+ {
+  "pl_name": "Simulated-562 e",
+  "pl_orbper": 490.929,
+  "pl_rade": 3.56,
+  "pl_eqt": 237,
+  "st_teff": 4909
+ },
+ {
+  "pl_name": "Simulated-563 f",
+  "pl_orbper": 0.8088,
+  "pl_rade": 3.65,
+  "pl_eqt": 2562,
+  "st_teff": 6677
+ },
+ {
+  "pl_name": "Simulated-564 g",
+  "pl_orbper": 914.4903,
+  "pl_rade": 7.67,
+  "pl_eqt": 245,
+  "st_teff": 6340
+ },
+ {
+  "pl_name": "Simulated-565 b",
+  "pl_orbper": 5.4039,
+  "pl_rade": 3.2,
+  "pl_eqt": 1165,
+  "st_teff": 6901
+ },
+ {
+  "pl_name": "Simulated-566 c",
+  "pl_orbper": 477.6095,
+  "pl_rade": 6.02,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-567 d",
+  "pl_orbper": 66.2188,
+  "pl_rade": 8.26,
+  "pl_eqt": 453,
+  "st_teff": 5321
+ },
+ {
+  "pl_name": "Simulated-568 e",
+  "pl_orbper": 161.1291,
+  "pl_rade": 4.78,
+  "pl_eqt": null,
+  "st_teff": 5625
+ },
+ {
+  "pl_name": "Simulated-569 f",
+  "pl_orbper": 19.2801,
+  "pl_rade": 0.79,
+  "pl_eqt": null,
+  "st_teff": 3223
+ },
+ {
+  "pl_name": "Simulated-570 g",
+  "pl_orbper": 27.6195,
+  "pl_rade": 3.88,
+  "pl_eqt": null,
+  "st_teff": 5894
+ },
+ {
+  "pl_name": "Simulated-571 b",
+  "pl_orbper": 2.4088,
+  "pl_rade": 0.66,
+  "pl_eqt": 1122,
+  "st_teff": 3820
+ },
+ {
+  "pl_name": "Simulated-572 c",
+  "pl_orbper": 2.9426,
+  "pl_rade": 8.7,
+  "pl_eqt": 621,
+  "st_teff": 3037
+ },
+ {
+  "pl_name": "Simulated-573 d",
+  "pl_orbper": 31.9016,
+  "pl_rade": 12.85,
+  "pl_eqt": null,
+  "st_teff": 2778
+ },
+ {
+  "pl_name": "Simulated-574 e",
+  "pl_orbper": 10.1268,
+  "pl_rade": 3.47,
+  "pl_eqt": 549,
+  "st_teff": 3218
+ },
+ {
+  "pl_name": "Simulated-575 f",
+  "pl_orbper": 2.3452,
+  "pl_rade": 13.62,
+  "pl_eqt": 902,
+  "st_teff": 3708
+ },
+ {
+  "pl_name": "Simulated-576 g",
+  "pl_orbper": 23.0919,
+  "pl_rade": 4.34,
+  "pl_eqt": 761,
+  "st_teff": 5515
+ },
+ {
+  "pl_name": "Simulated-577 b",
+  "pl_orbper": 35.1498,
+  "pl_rade": 8.74,
+  "pl_eqt": null,
+  "st_teff": 4848
+ },
+ {
+  "pl_name": "Simulated-578 c",
+  "pl_orbper": 12.348,
+  "pl_rade": 0.73,
+  "pl_eqt": 493,
+  "st_teff": 3597
+ },
+ {
+  "pl_name": "Simulated-579 d",
+  "pl_orbper": 12.9124,
+  "pl_rade": 8.93,
+  "pl_eqt": null,
+  "st_teff": 3480
+ },
+ {
+  "pl_name": "Simulated-580 e",
+  "pl_orbper": 1.6053,
+  "pl_rade": 1.84,
+  "pl_eqt": 1164,
+  "st_teff": 3965
+ },
+ {
+  "pl_name": "Simulated-581 f",
+  "pl_orbper": 2691.1154,
+  "pl_rade": 1.56,
+  "pl_eqt": 76,
+  "st_teff": 2804
+ },
+ {
+  "pl_name": "Simulated-582 g",
+  "pl_orbper": 16.7245,
+  "pl_rade": 5.85,
+  "pl_eqt": 615,
+  "st_teff": 4567
+ },
+ {
+  "pl_name": "Simulated-583 b",
+  "pl_orbper": 739.7923,
+  "pl_rade": 7.33,
+  "pl_eqt": null,
+  "st_teff": 2815
+ },
+ {
+  "pl_name": "Simulated-584 c",
+  "pl_orbper": 328.5036,
+  "pl_rade": 0.54,
+  "pl_eqt": null,
+  "st_teff": 3393
+ },
+ {
+  "pl_name": "Simulated-585 d",
+  "pl_orbper": 0.6689,
+  "pl_rade": 1.97,
+  "pl_eqt": 1012,
+  "st_teff": 2795
+ },
+ {
+  "pl_name": "Simulated-586 e",
+  "pl_orbper": 7.8757,
+  "pl_rade": 1.89,
+  "pl_eqt": null,
+  "st_teff": 5251
+ },
+ {
+  "pl_name": "Simulated-587 f",
+  "pl_orbper": 159.6321,
+  "pl_rade": 0.77,
+  "pl_eqt": null,
+  "st_teff": 3776
+ },
+ {
+  "pl_name": "Simulated-588 g",
+  "pl_orbper": 112.0555,
+  "pl_rade": 4.72,
+  "pl_eqt": null,
+  "st_teff": 3335
+ },
+ {
+  "pl_name": "Simulated-589 b",
+  "pl_orbper": 7.5198,
+  "pl_rade": 15.22,
+  "pl_eqt": 533,
+  "st_teff": 2842
+ },
+ {
+  "pl_name": "Simulated-590 c",
+  "pl_orbper": 1.6233,
+  "pl_rade": 2.02,
+  "pl_eqt": null,
+  "st_teff": 3756
+ },
+ {
+  "pl_name": "Simulated-591 d",
+  "pl_orbper": 4.6132,
+  "pl_rade": 8.02,
+  "pl_eqt": 666,
+  "st_teff": 3622
+ },
+ {
+  "pl_name": "Simulated-592 e",
+  "pl_orbper": 1.058,
+  "pl_rade": 1.8,
+  "pl_eqt": 2063,
+  "st_teff": 5654
+ },
+ {
+  "pl_name": "Simulated-593 f",
+  "pl_orbper": 226.3686,
+  "pl_rade": 5.32,
+  "pl_eqt": 214,
+  "st_teff": 3752
+ },
+ {
+  "pl_name": "Simulated-594 g",
+  "pl_orbper": 68.2076,
+  "pl_rade": 6.99,
+  "pl_eqt": 282,
+  "st_teff": 3640
+ },
+ {
+  "pl_name": "Simulated-595 b",
+  "pl_orbper": 0.4891,
+  "pl_rade": 3.89,
+  "pl_eqt": 2594,
+  "st_teff": 6956
+ },
+ {
+  "pl_name": "Simulated-596 c",
+  "pl_orbper": 6.6447,
+  "pl_rade": 3.53,
+  "pl_eqt": 543,
+  "st_teff": 3405
+ },
+ {
+  "pl_name": "Simulated-597 d",
+  "pl_orbper": 3.7381,
+  "pl_rade": 3.4,
+  "pl_eqt": 573,
+  "st_teff": 2852
+ },
+ {
+  "pl_name": "Simulated-598 e",
+  "pl_orbper": 24.1467,
+  "pl_rade": 1.54,
+  "pl_eqt": 599,
+  "st_teff": 4677
+ },
+ {
+  "pl_name": "Simulated-599 f",
+  "pl_orbper": 0.5927,
+  "pl_rade": 0.94,
+  "pl_eqt": 1435,
+  "st_teff": 3931
+ },
+ {
+  "pl_name": "Simulated-600 g",
+  "pl_orbper": 2.0587,
+  "pl_rade": 13.03,
+  "pl_eqt": 841,
+  "st_teff": 3030
+ },
+ {
+  "pl_name": "Simulated-601 b",
+  "pl_orbper": 165.4192,
+  "pl_rade": 4.03,
+  "pl_eqt": 161,
+  "st_teff": 2925
+ },
+ {
+  "pl_name": "Simulated-602 c",
+  "pl_orbper": 4.4861,
+  "pl_rade": 7.45,
+  "pl_eqt": 771,
+  "st_teff": 4239
+ },
+ {
+  "pl_name": "Simulated-603 d",
+  "pl_orbper": 389.5885,
+  "pl_rade": 7.79,
+  "pl_eqt": 195,
+  "st_teff": 4516
+ },
+ {
+  "pl_name": "Simulated-604 e",
+  "pl_orbper": 6.332,
+  "pl_rade": 1.86,
+  "pl_eqt": 752,
+  "st_teff": 4487
+ },
+ {
+  "pl_name": "Simulated-605 f",
+  "pl_orbper": 3.2359,
+  "pl_rade": 1.89,
+  "pl_eqt": 930,
+  "st_teff": 3749
+ },
+ {
+  "pl_name": "Simulated-606 g",
+  "pl_orbper": 0.8504,
+  "pl_rade": 1.89,
+  "pl_eqt": 2326,
+  "st_teff": 6277
+ },
+ {
+  "pl_name": "Simulated-607 b",
+  "pl_orbper": 0.5758,
+  "pl_rade": 0.85,
+  "pl_eqt": 1575,
+  "st_teff": 3402
+ },
+ {
+  "pl_name": "Simulated-608 c",
+  "pl_orbper": 0.9107,
+  "pl_rade": 0.64,
+  "pl_eqt": 1184,
+  "st_teff": 3743
+ },
+ {
+  "pl_name": "Simulated-609 d",
+  "pl_orbper": 102.5188,
+  "pl_rade": 1.31,
+  "pl_eqt": 408,
+  "st_teff": 6098
+ },
+ {
+  "pl_name": "Simulated-610 e",
+  "pl_orbper": 332.5854,
+  "pl_rade": 12.61,
+  "pl_eqt": 323,
+  "st_teff": 6652
+ },
+ {
+  "pl_name": "Simulated-611 f",
+  "pl_orbper": 1.1004,
+  "pl_rade": 1.39,
+  "pl_eqt": 901,
+  "st_teff": 3054
+ },
+ {
+  "pl_name": "Simulated-612 g",
+  "pl_orbper": 0.9618,
+  "pl_rade": 5.24,
+  "pl_eqt": null,
+  "st_teff": 3360
+ },
+ {
+  "pl_name": "Simulated-613 b",
+  "pl_orbper": 351.4423,
+  "pl_rade": 7.39,
+  "pl_eqt": null,
+  "st_teff": 3161
+ },
+ {
+  "pl_name": "Simulated-614 c",
+  "pl_orbper": 6.444,
+  "pl_rade": 8.78,
+  "pl_eqt": 832,
+  "st_teff": 3979
+ },
+ {
+  "pl_name": "Simulated-615 d",
+  "pl_orbper": 588.8985,
+  "pl_rade": 9.19,
+  "pl_eqt": null,
+  "st_teff": 5780
+ },
+ {
+  "pl_name": "Simulated-616 e",
+  "pl_orbper": 3.5894,
+  "pl_rade": 11.08,
+  "pl_eqt": 974,
+  "st_teff": 4682
+ },
+ {
+  "pl_name": "Simulated-617 f",
+  "pl_orbper": 89.666,
+  "pl_rade": 4.34,
+  "pl_eqt": 246,
+  "st_teff": 2815
+ },
+ {
+  "pl_name": "Simulated-618 g",
+  "pl_orbper": 745.5701,
+  "pl_rade": 2.2,
+  "pl_eqt": 245,
+  "st_teff": 5633
+ },
+ {
+  "pl_name": "Simulated-619 b",
+  "pl_orbper": 18.2642,
+  "pl_rade": 1.68,
+  "pl_eqt": 573,
+  "st_teff": 3814
+ },
+ {
+  "pl_name": "Simulated-620 c",
+  "pl_orbper": 31.2094,
+  "pl_rade": 1.78,
+  "pl_eqt": 715,
+  "st_teff": 5884
+ },
+ {
+  "pl_name": "Simulated-621 d",
+  "pl_orbper": 5.4013,
+  "pl_rade": 4.92,
+  "pl_eqt": 608,
+  "st_teff": 3445
+ },
+ {
+  "pl_name": "Simulated-622 e",
+  "pl_orbper": 0.5813,
+  "pl_rade": 2.78,
+  "pl_eqt": 1717,
+  "st_teff": 3884
+ },
+ {
+  "pl_name": "Simulated-623 f",
+  "pl_orbper": 58.9989,
+  "pl_rade": 2.13,
+  "pl_eqt": 304,
+  "st_teff": 3183
+ },
+ {
+  "pl_name": "Simulated-624 g",
+  "pl_orbper": 1.4583,
+  "pl_rade": 2.74,
+  "pl_eqt": 1063,
+  "st_teff": 3610
+ },
+ {
+  "pl_name": "Simulated-625 b",
+  "pl_orbper": 3.1101,
+  "pl_rade": 4.81,
+  "pl_eqt": 1391,
+  "st_teff": 5463
+ },
+ {
+  "pl_name": "Simulated-626 c",
+  "pl_orbper": 55.5935,
+  "pl_rade": 0.73,
+  "pl_eqt": 489,
+  "st_teff": 5394
+ },
+ {
+  "pl_name": "Simulated-627 d",
+  "pl_orbper": 0.6811,
+  "pl_rade": 1.16,
+  "pl_eqt": 1917,
+  "st_teff": 4605
+ },
+ {
+  "pl_name": "Simulated-628 e",
+  "pl_orbper": 0.8432,
+  "pl_rade": 1.49,
+  "pl_eqt": null,
+  "st_teff": 4355
+ },
+ {
+  "pl_name": "Simulated-629 f",
+  "pl_orbper": 12.6723,
+  "pl_rade": 7.41,
+  "pl_eqt": 524,
+  "st_teff": 3916
+ },
+ {
+  "pl_name": "Simulated-630 g",
+  "pl_orbper": 50.1125,
+  "pl_rade": 3.05,
+  "pl_eqt": 449,
+  "st_teff": 4263
+ },
+ {
+  "pl_name": "Simulated-631 b",
+  "pl_orbper": 170.032,
+  "pl_rade": 3.84,
+  "pl_eqt": 243,
+  "st_teff": 3562
+ },
+ {
+  "pl_name": "Simulated-632 c",
+  "pl_orbper": 70.3129,
+  "pl_rade": 1.87,
+  "pl_eqt": 543,
+  "st_teff": 5761
+ },
+ {
+  "pl_name": "Simulated-633 d",
+  "pl_orbper": 773.2417,
+  "pl_rade": 3.12,
+  "pl_eqt": 225,
+  "st_teff": 5739
+ },
+ {
+  "pl_name": "Simulated-634 e",
+  "pl_orbper": 6.44,
+  "pl_rade": 5.29,
+  "pl_eqt": 601,
+  "st_teff": 3669
+ },
+ {
+  "pl_name": "Simulated-635 f",
+  "pl_orbper": 15.0306,
+  "pl_rade": 5.77,
+  "pl_eqt": 644,
+  "st_teff": 4694
+ },
+ {
+  "pl_name": "Simulated-636 g",
+  "pl_orbper": 3.9763,
+  "pl_rade": 7.15,
+  "pl_eqt": 1099,
+  "st_teff": 4412
+ },
+ {
+  "pl_name": "Simulated-637 b",
+  "pl_orbper": 2.4343,
+  "pl_rade": 6.52,
+  "pl_eqt": 1577,
+  "st_teff": 7205
+ },
+ {
+  "pl_name": "Simulated-638 c",
+  "pl_orbper": 14.5452,
+  "pl_rade": 3.56,
+  "pl_eqt": null,
+  "st_teff": 2929
+ },
+ {
+  "pl_name": "Simulated-639 d",
+  "pl_orbper": 167.174,
+  "pl_rade": 2.52,
+  "pl_eqt": 259,
+  "st_teff": 4574
+ },
+ {
+  "pl_name": "Simulated-640 e",
+  "pl_orbper": 17.3486,
+  "pl_rade": 3.61,
+  "pl_eqt": 541,
+  "st_teff": 3909
+ },
+ {
+  "pl_name": "Simulated-641 f",
+  "pl_orbper": 2.0709,
+  "pl_rade": 3.74,
+  "pl_eqt": 816,
+  "st_teff": 2940
+ },
+ {
+  "pl_name": "Simulated-642 g",
+  "pl_orbper": 47.1983,
+  "pl_rade": 11.43,
+  "pl_eqt": 425,
+  "st_teff": 4023
+ },
+ {
+  "pl_name": "Simulated-643 b",
+  "pl_orbper": 738.4672,
+  "pl_rade": 13.97,
+  "pl_eqt": 121,
+  "st_teff": 3017
+ },
+ {
+  "pl_name": "Simulated-644 c",
+  "pl_orbper": 9.3443,
+  "pl_rade": 7.95,
+  "pl_eqt": 601,
+  "st_teff": 3511
+ },
+ {
+  "pl_name": "Simulated-645 d",
+  "pl_orbper": 498.2353,
+  "pl_rade": 2.96,
+  "pl_eqt": 125,
+  "st_teff": 3234
+ },
+ {
+  "pl_name": "Simulated-646 e",
+  "pl_orbper": 420.2973,
+  "pl_rade": 3.09,
+  "pl_eqt": 309,
+  "st_teff": 6011
+ },
+ {
+  "pl_name": "Simulated-647 f",
+  "pl_orbper": 23.9538,
+  "pl_rade": 3.22,
+  "pl_eqt": 690,
+  "st_teff": 5872
+ },
+ {
+  "pl_name": "Simulated-648 g",
+  "pl_orbper": 1.2719,
+  "pl_rade": 0.8,
+  "pl_eqt": 1388,
+  "st_teff": 4720
+ },
+ {
+  "pl_name": "Simulated-649 b",
+  "pl_orbper": 5.7035,
+  "pl_rade": 13.34,
+  "pl_eqt": 571,
+  "st_teff": 3116
+ },
+ {
+  "pl_name": "Simulated-650 c",
+  "pl_orbper": 370.1554,
+  "pl_rade": 11.9,
+  "pl_eqt": 166,
+  "st_teff": 3283
+ },
+ {
+  "pl_name": "Simulated-651 d",
+  "pl_orbper": 4.3849,
+  "pl_rade": 6.91,
+  "pl_eqt": 679,
+  "st_teff": 3308
+ },
+ {
+  "pl_name": "Simulated-652 e",
+  "pl_orbper": 451.3205,
+  "pl_rade": 3.65,
+  "pl_eqt": 179,
+  "st_teff": 4607
+ },
+ {
+  "pl_name": "Simulated-653 f",
+  "pl_orbper": 3.0856,
+  "pl_rade": 12.62,
+  "pl_eqt": 752,
+  "st_teff": 3378
+ },
+ {
+  "pl_name": "Simulated-654 g",
+  "pl_orbper": 121.6029,
+  "pl_rade": 3.19,
+  "pl_eqt": null,
+  "st_teff": 2838
+ },
+ {
+  "pl_name": "Simulated-655 b",
+  "pl_orbper": 2.0006,
+  "pl_rade": 13.05,
+  "pl_eqt": 1492,
+  "st_teff": 4810
+ },
+ {
+  "pl_name": "Simulated-656 c",
+  "pl_orbper": 72.1243,
+  "pl_rade": 6.51,
+  "pl_eqt": null,
+  "st_teff": 2736
+ },
+ {
+  "pl_name": "Simulated-657 d",
+  "pl_orbper": 19.3594,
+  "pl_rade": 3.9,
+  "pl_eqt": 316,
+  "st_teff": 2701
+ },
+ {
+  "pl_name": "Simulated-658 e",
+  "pl_orbper": 642.6255,
+  "pl_rade": 1.81,
+  "pl_eqt": 162,
+  "st_teff": 4620
+ },
+ {
+  "pl_name": "Simulated-659 f",
+  "pl_orbper": 12.9403,
+  "pl_rade": 3.8,
+  "pl_eqt": 550,
+  "st_teff": 3388
+ },
+ {
+  "pl_name": "Simulated-660 g",
+  "pl_orbper": 39.3571,
+  "pl_rade": 3.02,
+  "pl_eqt": null,
+  "st_teff": 2886
+ },
+ {
+  "pl_name": "Simulated-661 b",
+  "pl_orbper": 13.6044,
+  "pl_rade": 3.83,
+  "pl_eqt": 913,
+  "st_teff": 5649
+ },
+ {
+  "pl_name": "Simulated-662 c",
+  "pl_orbper": 42.1092,
+  "pl_rade": 3.18,
+  "pl_eqt": 492,
+  "st_teff": 4695
+ },
+ {
+  "pl_name": "Simulated-663 d",
+  "pl_orbper": 12.4621,
+  "pl_rade": 3.18,
+  "pl_eqt": 883,
+  "st_teff": 5376
+ },
+ {
+  "pl_name": "Simulated-664 e",
+  "pl_orbper": 136.2661,
+  "pl_rade": 2.13,
+  "pl_eqt": 388,
+  "st_teff": 6703
+ },
+ {
+  "pl_name": "Simulated-665 f",
+  "pl_orbper": 557.8974,
+  "pl_rade": 1.58,
+  "pl_eqt": 339,
+  "st_teff": 7093
+ },
+ {
+  "pl_name": "Simulated-666 g",
+  "pl_orbper": 111.1448,
+  "pl_rade": 1.86,
+  "pl_eqt": 462,
+  "st_teff": 5951
+ },
+ {
+  "pl_name": "Simulated-667 b",
+  "pl_orbper": 1.0721,
+  "pl_rade": 2.54,
+  "pl_eqt": null,
+  "st_teff": 4906
+ },
+ {
+  "pl_name": "Simulated-668 c",
+  "pl_orbper": 14.3075,
+  "pl_rade": 3.05,
+  "pl_eqt": null,
+  "st_teff": 6484
+ },
+ {
+  "pl_name": "Simulated-669 d",
+  "pl_orbper": 2.2106,
+  "pl_rade": 2.91,
+  "pl_eqt": null,
+  "st_teff": 5977
+ },
+ {
+  "pl_name": "Simulated-670 e",
+  "pl_orbper": 2.6864,
+  "pl_rade": 1.25,
+  "pl_eqt": 704,
+  "st_teff": 2731
+ },
+ {
+  "pl_name": "Simulated-671 f",
+  "pl_orbper": 2.9265,
+  "pl_rade": 2.01,
+  "pl_eqt": 1490,
+  "st_teff": 5983
+ },
+ {
+  "pl_name": "Simulated-672 g",
+  "pl_orbper": 144.8616,
+  "pl_rade": 5.11,
+  "pl_eqt": 489,
+  "st_teff": 7231
+ },
+ {
+  "pl_name": "Simulated-673 b",
+  "pl_orbper": 7.1262,
+  "pl_rade": 3.03,
+  "pl_eqt": null,
+  "st_teff": 3421
+ },
+ {
+  "pl_name": "Simulated-674 c",
+  "pl_orbper": 98.7266,
+  "pl_rade": 2.72,
+  "pl_eqt": 274,
+  "st_teff": 4174
+ },
+ {
+  "pl_name": "Simulated-675 d",
+  "pl_orbper": 2.7553,
+  "pl_rade": 2.94,
+  "pl_eqt": 1606,
+  "st_teff": 6040
+ },
+ {
+  "pl_name": "Simulated-676 e",
+  "pl_orbper": 0.5806,
+  "pl_rade": 0.73,
+  "pl_eqt": 1509,
+  "st_teff": 4258
+ },
+ {
+  "pl_name": "Simulated-677 f",
+  "pl_orbper": 9.6826,
+  "pl_rade": 8.05,
+  "pl_eqt": 1037,
+  "st_teff": 6371
+ },
+ {
+  "pl_name": "Simulated-678 g",
+  "pl_orbper": 165.2627,
+  "pl_rade": 2.3,
+  "pl_eqt": null,
+  "st_teff": 5079
+ },
+ {
+  "pl_name": "Simulated-679 b",
+  "pl_orbper": 2.407,
+  "pl_rade": 5.49,
+  "pl_eqt": 1483,
+  "st_teff": 5601
+ },
+ {
+  "pl_name": "Simulated-680 c",
+  "pl_orbper": 37.4555,
+  "pl_rade": 1.62,
+  "pl_eqt": 392,
+  "st_teff": 4056
+ },
+ {
+  "pl_name": "Simulated-681 d",
+  "pl_orbper": 5.1014,
+  "pl_rade": 4.48,
+  "pl_eqt": 747,
+  "st_teff": 3786
+ },
+ {
+  "pl_name": "Simulated-682 e",
+  "pl_orbper": 37.0939,
+  "pl_rade": 1.9,
+  "pl_eqt": 372,
+  "st_teff": 3761
+ },
+ {
+  "pl_name": "Simulated-683 f",
+  "pl_orbper": 0.6603,
+  "pl_rade": 4.37,
+  "pl_eqt": 2403,
+  "st_teff": 5742
+ },
+ {
+  "pl_name": "Simulated-684 g",
+  "pl_orbper": 423.5818,
+  "pl_rade": 9.51,
+  "pl_eqt": 130,
+  "st_teff": 2923
+ },
+ {
+  "pl_name": "Simulated-685 b",
+  "pl_orbper": 0.4501,
+  "pl_rade": 4.0,
+  "pl_eqt": 1391,
+  "st_teff": 3144
+ },
+ {
+  "pl_name": "Simulated-686 c",
+  "pl_orbper": 175.2866,
+  "pl_rade": 2.96,
+  "pl_eqt": 228,
+  "st_teff": 3616
+ },
+ {
+  "pl_name": "Simulated-687 d",
+  "pl_orbper": 14.4778,
+  "pl_rade": 2.11,
+  "pl_eqt": 464,
+  "st_teff": 2990
+ },
+ {
+  "pl_name": "Simulated-688 e",
+  "pl_orbper": 1.4896,
+  "pl_rade": 2.71,
+  "pl_eqt": 1615,
+  "st_teff": 5707
+ },
+ {
+  "pl_name": "Simulated-689 f",
+  "pl_orbper": 1006.5108,
+  "pl_rade": 2.6,
+  "pl_eqt": 234,
+  "st_teff": 6004
+ },
+ {
+  "pl_name": "Simulated-690 g",
+  "pl_orbper": 13.6559,
+  "pl_rade": 3.09,
+  "pl_eqt": 437,
+  "st_teff": 3127
+ },
+ {
+  "pl_name": "Simulated-691 b",
+  "pl_orbper": 63.2895,
+  "pl_rade": 0.71,
+  "pl_eqt": 293,
+  "st_teff": 3949
+ },
+ {
+  "pl_name": "Simulated-692 c",
+  "pl_orbper": 52.4601,
+  "pl_rade": 3.83,
+  "pl_eqt": 317,
+  "st_teff": 3867
+ },
+ {
+  "pl_name": "Simulated-693 d",
+  "pl_orbper": 5.5676,
+  "pl_rade": 3.19,
+  "pl_eqt": 1052,
+  "st_teff": 6362
+ },
+ {
+  "pl_name": "Simulated-694 e",
+  "pl_orbper": 11.8264,
+  "pl_rade": 14.01,
+  "pl_eqt": 405,
+  "st_teff": 3135
+ },
+ {
+  "pl_name": "Simulated-695 f",
+  "pl_orbper": 0.7109,
+  "pl_rade": 1.21,
+  "pl_eqt": null,
+  "st_teff": 4156
+ },
+ {
+  "pl_name": "Simulated-696 g",
+  "pl_orbper": 242.4327,
+  "pl_rade": 3.86,
+  "pl_eqt": 163,
+  "st_teff": 2880
+ },
+ {
+  "pl_name": "Simulated-697 b",
+  "pl_orbper": 26.0844,
+  "pl_rade": 1.08,
+  "pl_eqt": 548,
+  "st_teff": 5012
+ },
+ {
+  "pl_name": "Simulated-698 c",
+  "pl_orbper": 801.0568,
+  "pl_rade": 7.89,
+  "pl_eqt": 112,
+  "st_teff": 3172
+ },
+ {
+  "pl_name": "Simulated-699 d",
+  "pl_orbper": 5.3734,
+  "pl_rade": 4.26,
+  "pl_eqt": null,
+  "st_teff": 3642
+ },
+ {
+  "pl_name": "Simulated-700 e",
+  "pl_orbper": 89.2946,
+  "pl_rade": 13.28,
+  "pl_eqt": 456,
+  "st_teff": 5681
+ },
+ {
+  "pl_name": "Simulated-701 f",
+  "pl_orbper": 6.8449,
+  "pl_rade": 12.93,
+  "pl_eqt": 597,
+  "st_teff": 3205
+ },
+ {
+  "pl_name": "Simulated-702 g",
+  "pl_orbper": 1.4138,
+  "pl_rade": 2.96,
+  "pl_eqt": null,
+  "st_teff": 5642
+ },
+ {
+  "pl_name": "Simulated-703 b",
+  "pl_orbper": 7.4434,
+  "pl_rade": 2.81,
+  "pl_eqt": null,
+  "st_teff": 2803
+ },
+ {
+  "pl_name": "Simulated-704 c",
+  "pl_orbper": 218.9615,
+  "pl_rade": 2.74,
+  "pl_eqt": 329,
+  "st_teff": 6051
+ },
+ {
+  "pl_name": "Simulated-705 d",
+  "pl_orbper": 3.8903,
+  "pl_rade": 3.58,
+  "pl_eqt": 841,
+  "st_teff": 3725
+ },
+ {
+  "pl_name": "Simulated-706 e",
+  "pl_orbper": 0.633,
+  "pl_rade": 0.84,
+  "pl_eqt": 2169,
+  "st_teff": 5416
+ },
+ {
+  "pl_name": "Simulated-707 f",
+  "pl_orbper": 609.2611,
+  "pl_rade": 3.22,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-708 g",
+  "pl_orbper": 3.335,
+  "pl_rade": 1.78,
+  "pl_eqt": 1312,
+  "st_teff": 5571
+ },
+ {
+  "pl_name": "Simulated-709 b",
+  "pl_orbper": 19.7627,
+  "pl_rade": 1.68,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-710 c",
+  "pl_orbper": 175.9655,
+  "pl_rade": 3.19,
+  "pl_eqt": 222,
+  "st_teff": 3264
+ },
+ {
+  "pl_name": "Simulated-711 d",
+  "pl_orbper": 7.0165,
+  "pl_rade": 5.48,
+  "pl_eqt": 893,
+  "st_teff": 4339
+ },
+ {
+  "pl_name": "Simulated-712 e",
+  "pl_orbper": 6.2162,
+  "pl_rade": 0.55,
+  "pl_eqt": 1012,
+  "st_teff": 5285
+ },
+ {
+  "pl_name": "Simulated-713 f",
+  "pl_orbper": 0.6083,
+  "pl_rade": 11.58,
+  "pl_eqt": 2217,
+  "st_teff": 4931
+ },
+ {
+  "pl_name": "Simulated-714 g",
+  "pl_orbper": 20.3741,
+  "pl_rade": 10.96,
+  "pl_eqt": 369,
+  "st_teff": 3258
+ },
+ {
+  "pl_name": "Simulated-715 b",
+  "pl_orbper": 2.7796,
+  "pl_rade": 5.89,
+  "pl_eqt": 1166,
+  "st_teff": 4582
+ },
+ {
+  "pl_name": "Simulated-716 c",
+  "pl_orbper": 4.1622,
+  "pl_rade": 3.19,
+  "pl_eqt": 1441,
+  "st_teff": 6093
+ },
+ {
+  "pl_name": "Simulated-717 d",
+  "pl_orbper": 646.6222,
+  "pl_rade": 0.85,
+  "pl_eqt": 134,
+  "st_teff": 3397
+ },
+ {
+  "pl_name": "Simulated-718 e",
+  "pl_orbper": 549.2205,
+  "pl_rade": 2.85,
+  "pl_eqt": 267,
+  "st_teff": 5834
+ },
+ {
+  "pl_name": "Simulated-719 f",
+  "pl_orbper": 38.3584,
+  "pl_rade": 7.01,
+  "pl_eqt": null,
+  "st_teff": 3515
+ },
+ {
+  "pl_name": "Simulated-720 g",
+  "pl_orbper": 13.6193,
+  "pl_rade": 3.77,
+  "pl_eqt": 870,
+  "st_teff": 5650
+ },
+ {
+  "pl_name": "Simulated-721 b",
+  "pl_orbper": 1.594,
+  "pl_rade": 2.03,
+  "pl_eqt": 794,
+  "st_teff": 2839
+ },
+ {
+  "pl_name": "Simulated-722 c",
+  "pl_orbper": 69.6159,
+  "pl_rade": 2.49,
+  "pl_eqt": 595,
+  "st_teff": 6773
+ },
+ {
+  "pl_name": "Simulated-723 d",
+  "pl_orbper": 184.5274,
+  "pl_rade": 1.6,
+  "pl_eqt": 296,
+  "st_teff": 5167
+ },
+ {
+  "pl_name": "Simulated-724 e",
+  "pl_orbper": 3.1204,
+  "pl_rade": 7.02,
+  "pl_eqt": 1130,
+  "st_teff": 4623
+ },
+ {
+  "pl_name": "Simulated-725 f",
+  "pl_orbper": 1.0181,
+  "pl_rade": 14.56,
+  "pl_eqt": 1388,
+  "st_teff": 3740
+ },
+ {
+  "pl_name": "Simulated-726 g",
+  "pl_orbper": 2.156,
+  "pl_rade": 2.92,
+  "pl_eqt": 1114,
+  "st_teff": 4908
+ },
+ {
+  "pl_name": "Simulated-727 b",
+  "pl_orbper": 1.4813,
+  "pl_rade": 3.67,
+  "pl_eqt": 783,
+  "st_teff": 2785
+ },
+ {
+  "pl_name": "Simulated-728 c",
+  "pl_orbper": 3.2562,
+  "pl_rade": 2.27,
+  "pl_eqt": null,
+  "st_teff": 3971
+ },
+ {
+  "pl_name": "Simulated-729 d",
+  "pl_orbper": 0.6146,
+  "pl_rade": 4.85,
+  "pl_eqt": 2823,
+  "st_teff": 6569
+ },
+ {
+  "pl_name": "Simulated-730 e",
+  "pl_orbper": 24.1081,
+  "pl_rade": 7.9,
+  "pl_eqt": 744,
+  "st_teff": 5466
+ },
+ {
+  "pl_name": "Simulated-731 f",
+  "pl_orbper": 162.8711,
+  "pl_rade": 3.76,
+  "pl_eqt": null,
+  "st_teff": 2733
+ },
+ {
+  "pl_name": "Simulated-732 g",
+  "pl_orbper": 0.8213,
+  "pl_rade": 1.41,
+  "pl_eqt": 1904,
+  "st_teff": 4682
+ },
+ {
+  "pl_name": "Simulated-733 b",
+  "pl_orbper": 215.6435,
+  "pl_rade": 3.75,
+  "pl_eqt": 152,
+  "st_teff": 2712
+ },
+ {
+  "pl_name": "Simulated-734 c",
+  "pl_orbper": 40.4446,
+  "pl_rade": 7.16,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-735 d",
+  "pl_orbper": 316.0948,
+  "pl_rade": 2.4,
+  "pl_eqt": 137,
+  "st_teff": 2876
+ },
+ {
+  "pl_name": "Simulated-736 e",
+  "pl_orbper": 2.565,
+  "pl_rade": 5.05,
+  "pl_eqt": null,
+  "st_teff": 5547
+ },
+ {
+  "pl_name": "Simulated-737 f",
+  "pl_orbper": 1025.3176,
+  "pl_rade": 4.2,
+  "pl_eqt": 164,
+  "st_teff": 5587
+ },
+ {
+  "pl_name": "Simulated-738 g",
+  "pl_orbper": 91.9045,
+  "pl_rade": 6.64,
+  "pl_eqt": 242,
+  "st_teff": 3354
+ },
+ {
+  "pl_name": "Simulated-739 b",
+  "pl_orbper": 11.36,
+  "pl_rade": 3.6,
+  "pl_eqt": 543,
+  "st_teff": 3211
+ },
+ {
+  "pl_name": "Simulated-740 c",
+  "pl_orbper": 1.0316,
+  "pl_rade": 1.34,
+  "pl_eqt": 1140,
+  "st_teff": 3235
+ },
+ {
+  "pl_name": "Simulated-741 d",
+  "pl_orbper": 1.8571,
+  "pl_rade": 0.54,
+  "pl_eqt": 1220,
+  "st_teff": 4686
+ },
+ {
+  "pl_name": "Simulated-742 e",
+  "pl_orbper": 1.7071,
+  "pl_rade": 2.11,
+  "pl_eqt": 1778,
+  "st_teff": 5956
+ },
+ {
+  "pl_name": "Simulated-743 f",
+  "pl_orbper": 28.1243,
+  "pl_rade": 9.5,
+  "pl_eqt": 360,
+  "st_teff": 3228
+ },
+ {
+  "pl_name": "Simulated-744 g",
+  "pl_orbper": 525.0177,
+  "pl_rade": 5.28,
+  "pl_eqt": 149,
+  "st_teff": 3462
+ },
+ {
+  "pl_name": "Simulated-745 b",
+  "pl_orbper": 0.7364,
+  "pl_rade": 11.74,
+  "pl_eqt": 2704,
+  "st_teff": 6648
+ },
+ {
+  "pl_name": "Simulated-746 c",
+  "pl_orbper": 187.7404,
+  "pl_rade": 3.59,
+  "pl_eqt": 387,
+  "st_teff": 7190
+ },
+ {
+  "pl_name": "Simulated-747 d",
+  "pl_orbper": 1.0981,
+  "pl_rade": 2.38,
+  "pl_eqt": null,
+  "st_teff": 6242
+ },
+ {
+  "pl_name": "Simulated-748 e",
+  "pl_orbper": 6.7832,
+  "pl_rade": 11.06,
+  "pl_eqt": null,
+  "st_teff": 6045
+ },
+ {
+  "pl_name": "Simulated-749 f",
+  "pl_orbper": 853.2204,
+  "pl_rade": 8.88,
+  "pl_eqt": 173,
+  "st_teff": 4573
+ },
+ {
+  "pl_name": "Simulated-750 g",
+  "pl_orbper": 204.3503,
+  "pl_rade": 15.78,
+  "pl_eqt": 181,
+  "st_teff": 3047
+ },
+ {
+  "pl_name": "Simulated-751 b",
+  "pl_orbper": 48.7835,
+  "pl_rade": 1.12,
+  "pl_eqt": 687,
+  "st_teff": 6784
+ },
+ {
+  "pl_name": "Simulated-752 c",
+  "pl_orbper": 10.0495,
+  "pl_rade": 6.28,
+  "pl_eqt": 420,
+  "st_teff": 3073
+ },
+ {
+  "pl_name": "Simulated-753 d",
+  "pl_orbper": 3.7728,
+  "pl_rade": 11.3,
+  "pl_eqt": 1398,
+  "st_teff": 6098
+ },
+ {
+  "pl_name": "Simulated-754 e",
+  "pl_orbper": 0.7234,
+  "pl_rade": 8.44,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-755 f",
+  "pl_orbper": 0.8755,
+  "pl_rade": 3.8,
+  "pl_eqt": 1247,
+  "st_teff": 3360
+ },
+ {
+  "pl_name": "Simulated-756 g",
+  "pl_orbper": 2.8728,
+  "pl_rade": 8.56,
+  "pl_eqt": null,
+  "st_teff": 6971
+ },
+ {
+  "pl_name": "Simulated-757 b",
+  "pl_orbper": 22.5968,
+  "pl_rade": 2.81,
+  "pl_eqt": null,
+  "st_teff": null
+ },
+ {
+  "pl_name": "Simulated-758 c",
+  "pl_orbper": 8.9107,
+  "pl_rade": 1.34,
+  "pl_eqt": null,
+  "st_teff": 3847
+ },
+ {
+  "pl_name": "Simulated-759 d",
+  "pl_orbper": 1.7117,
+  "pl_rade": 3.63,
+  "pl_eqt": null,
+  "st_teff": 4412
+ },
+ {
+  "pl_name": "Simulated-760 e",
+  "pl_orbper": 5.0457,
+  "pl_rade": 1.14,
+  "pl_eqt": 634,
+  "st_teff": 3325
+ },
+ {
+  "pl_name": "Simulated-761 f",
+  "pl_orbper": 1.214,
+  "pl_rade": 3.28,
+  "pl_eqt": null,
+  "st_teff": 3526
+ },
+ {
+  "pl_name": "Simulated-762 g",
+  "pl_orbper": 9.6278,
+  "pl_rade": 6.02,
+  "pl_eqt": null,
+  "st_teff": 6042
+ },
+ {
+  "pl_name": "Simulated-763 b",
+  "pl_orbper": 10.4411,
+  "pl_rade": 4.24,
+  "pl_eqt": 1129,
+  "st_teff": 6299
+ },
+ {
+  "pl_name": "Simulated-764 c",
+  "pl_orbper": 19.6004,
+  "pl_rade": 3.59,
+  "pl_eqt": 344,
+  "st_teff": 3019
+ },
+ {
+  "pl_name": "Simulated-765 d",
+  "pl_orbper": 119.5611,
+  "pl_rade": 3.36,
+  "pl_eqt": 358,
+  "st_teff": 4652
+ },
+ {
+  "pl_name": "Simulated-766 e",
+  "pl_orbper": 931.2202,
+  "pl_rade": 13.9,
+  "pl_eqt": 119,
+  "st_teff": 3433
+ },
+ {
+  "pl_name": "Simulated-767 f",
+  "pl_orbper": 1442.6438,
+  "pl_rade": 0.89,
+  "pl_eqt": 162,
+  "st_teff": 6116
+ },
+ {
+  "pl_name": "Simulated-768 g",
+  "pl_orbper": 1575.1097,
+  "pl_rade": 10.36,
+  "pl_eqt": 158,
+  "st_teff": 6247
+ },
+ {
+  "pl_name": "Simulated-769 b",
+  "pl_orbper": 427.8537,
+  "pl_rade": 2.86,
+  "pl_eqt": 140,
+  "st_teff": 3444
+ },
+ {
+  "pl_name": "Simulated-770 c",
+  "pl_orbper": 1.2958,
+  "pl_rade": 8.34,
+  "pl_eqt": null,
+  "st_teff": 3835
+ },
+ {
+  "pl_name": "Simulated-771 d",
+  "pl_orbper": 15.7797,
+  "pl_rade": 3.73,
+  "pl_eqt": 674,
+  "st_teff": 5575
+ },
+ {
+  "pl_name": "Simulated-772 e",
+  "pl_orbper": 1.5229,
+  "pl_rade": 1.74,
+  "pl_eqt": 2026,
+  "st_teff": 5946
+ },
+ {
+  "pl_name": "Simulated-773 f",
+  "pl_orbper": 233.8919,
+  "pl_rade": 15.73,
+  "pl_eqt": 184,
+  "st_teff": 3807
+ },
+ {
+  "pl_name": "Simulated-774 g",
+  "pl_orbper": 0.7666,
+  "pl_rade": 6.15,
+  "pl_eqt": 1336,
+  "st_teff": 3521
+ },
+ {
+  "pl_name": "Simulated-775 b",
+  "pl_orbper": 975.1288,
+  "pl_rade": 1.4,
+  "pl_eqt": 99,
+  "st_teff": 2766
+ },
+ {
+  "pl_name": "Simulated-776 c",
+  "pl_orbper": 6.678,
+  "pl_rade": 3.85,
+  "pl_eqt": null,
+  "st_teff": 2737
+ },
+ {
+  "pl_name": "Simulated-777 d",
+  "pl_orbper": 7.7201,
+  "pl_rade": 2.69,
+  "pl_eqt": 827,
+  "st_teff": 5297
+ },
+ {
+  "pl_name": "Simulated-778 e",
+  "pl_orbper": 233.1354,
+  "pl_rade": 1.95,
+  "pl_eqt": null,
+  "st_teff": 3996
+ },
+ {
+  "pl_name": "Simulated-779 f",
+  "pl_orbper": 375.1076,
+  "pl_rade": 6.48,
+  "pl_eqt": 228,
+  "st_teff": 5180
+ },
+ {
+  "pl_name": "Simulated-780 g",
+  "pl_orbper": 49.9945,
+  "pl_rade": 1.32,
+  "pl_eqt": 413,
+  "st_teff": 3905
+ },
+ {
+  "pl_name": "Simulated-781 b",
+  "pl_orbper": 0.9873,
+  "pl_rade": 1.78,
+  "pl_eqt": 1480,
+  "st_teff": 4641
+ },
+ {
+  "pl_name": "Simulated-782 c",
+  "pl_orbper": 107.2165,
+  "pl_rade": 4.61,
+  "pl_eqt": 297,
+  "st_teff": 3956
+ },
+ {
+  "pl_name": "Simulated-783 d",
+  "pl_orbper": 6.52,
+  "pl_rade": 4.87,
+  "pl_eqt": 990,
+  "st_teff": 5475
+ },
+ {
+  "pl_name": "Simulated-784 e",
+  "pl_orbper": 388.2654,
+  "pl_rade": 1.13,
+  "pl_eqt": 229,
+  "st_teff": 5421
+ },
+ {
+  "pl_name": "Simulated-785 f",
+  "pl_orbper": 549.0608,
+  "pl_rade": 0.53,
+  "pl_eqt": null,
+  "st_teff": 2815
+ },
+ {
+  "pl_name": "Simulated-786 g",
+  "pl_orbper": 3.9977,
+  "pl_rade": 1.84,
+  "pl_eqt": 839,
+  "st_teff": 4334
+ },
+ {
+  "pl_name": "Simulated-787 b",
+  "pl_orbper": 6.4976,
+  "pl_rade": 10.01,
+  "pl_eqt": 995,
+  "st_teff": 4808
+ },
+ {
+  "pl_name": "Simulated-788 c",
+  "pl_orbper": 8.8428,
+  "pl_rade": 7.88,
+  "pl_eqt": null,
+  "st_teff": 4897
+ },
+ {
+  "pl_name": "Simulated-789 d",
+  "pl_orbper": 0.7235,
+  "pl_rade": 8.01,
+  "pl_eqt": 2164,
+  "st_teff": 5565
+ },
+ {
+  "pl_name": "Simulated-790 e",
+  "pl_orbper": 37.3365,
+  "pl_rade": 1.09,
+  "pl_eqt": 540,
+  "st_teff": 4793
+ },
+ {
+  "pl_name": "Simulated-791 f",
+  "pl_orbper": 463.4514,
+  "pl_rade": 15.54,
+  "pl_eqt": 170,
+  "st_teff": 4094
+ },
+ {
+  "pl_name": "Simulated-792 g",
+  "pl_orbper": 1.6906,
+  "pl_rade": 2.52,
+  "pl_eqt": null,
+  "st_teff": 5053
+ },
+ {
+  "pl_name": "Simulated-793 b",
+  "pl_orbper": 848.7204,
+  "pl_rade": 2.86,
+  "pl_eqt": 200,
+  "st_teff": 5920
+ },
+ {
+  "pl_name": "Simulated-794 c",
+  "pl_orbper": 53.6752,
+  "pl_rade": 6.96,
+  "pl_eqt": 270,
+  "st_teff": 3095
+ },
+ {
+  "pl_name": "Simulated-795 d",
+  "pl_orbper": 161.9255,
+  "pl_rade": 8.45,
+  "pl_eqt": null,
+  "st_teff": 4530
+ },
+ {
+  "pl_name": "Simulated-796 e",
+  "pl_orbper": 149.1869,
+  "pl_rade": 1.6,
+  "pl_eqt": null,
+  "st_teff": 4284
+ },
+ {
+  "pl_name": "Simulated-797 f",
+  "pl_orbper": 1.164,
+  "pl_rade": 13.05,
+  "pl_eqt": 2191,
+  "st_teff": 5851
+ },
+ {
+  "pl_name": "Simulated-798 g",
+  "pl_orbper": 45.1509,
+  "pl_rade": 1.39,
+  "pl_eqt": 285,
+  "st_teff": 3030
+ },
+ {
+  "pl_name": "Simulated-799 b",
+  "pl_orbper": 31.1983,
+  "pl_rade": 1.17,
+  "pl_eqt": 409,
+  "st_teff": 3768
+ },
+ {
+  "pl_name": "Simulated-800 c",
+  "pl_orbper": 23.4251,
+  "pl_rade": 12.05,
+  "pl_eqt": null,
+  "st_teff": 5549
+ }
+]
